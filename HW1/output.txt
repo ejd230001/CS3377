@@ -1,0 +1,1686 @@
+/snap/ubuntu-desktop-installer/1276/bin/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/snap/ubuntu-desktop-installer/1276/bin/data/flutter_assets/packages/timezone_map/assets/cities15000.txt
+/snap/ubuntu-desktop-installer/1276/bin/data/flutter_assets/packages/ubuntu_bootstrap/assets/slides/screenshots/dark/blender.png
+/snap/ubuntu-desktop-installer/1276/bin/data/flutter_assets/packages/ubuntu_bootstrap/assets/slides/screenshots/light/blender.png
+/snap/ubuntu-desktop-installer/1276/bin/lib/libapp.so
+/snap/ubuntu-desktop-installer/1276/bin/lib/libflutter_linux_gtk.so
+/snap/ubuntu-desktop-installer/1276/usr/bin/python3.10
+/snap/ubuntu-desktop-installer/1276/usr/lib/python3/dist-packages/launchpadlib/testing/launchpad-wadl.xml
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/d3d12_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/i915_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/iris_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/nouveau_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/r300_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/r600_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/radeonsi_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/swrast_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/dri/zink_dri.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libLLVM-15.so.1
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libc.a
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libcairo.so.2.11600.0
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2404.29
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libgio-2.0.a
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.7200.4
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libglib-2.0.a
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.7200.4
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2404.29
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libicudata.so.70.1
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libicui18n.so.70.1
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libicuuc.so.70.1
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libm-2.35.a
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libmvec.a
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libperl.so.5.34.0
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libsepol.a
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/libxml2.so.2.9.13
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/perl/5.34.0/CORE/charclass_invlists.h
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Encode/CN/CN.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Encode/JP/JP.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Encode/KR/KR.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Encode/TW/TW.so
+/snap/ubuntu-desktop-installer/1276/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Unicode/Collate/Collate.so
+/snap/ubuntu-desktop-installer/1276/usr/libexec/data/flutter_assets/assets/Ubuntu_WSL_bgrd_x2.png
+/snap/ubuntu-desktop-installer/1276/usr/libexec/data/flutter_assets/assets/splash_animation.gif
+/snap/ubuntu-desktop-installer/1276/usr/libexec/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/snap/ubuntu-desktop-installer/1276/usr/libexec/lib/libapp.so
+/snap/ubuntu-desktop-installer/1276/usr/libexec/lib/libflutter_linux_gtk.so
+/snap/ubuntu-desktop-installer/1276/usr/share/grub/unicode.pf2
+/snap/ubuntu-desktop-installer/1276/usr/share/i18n/locales/cns11643_stroke
+/snap/ubuntu-desktop-installer/1276/usr/share/i18n/locales/iso14651_t1_common
+/snap/ubuntu-desktop-installer/1276/usr/share/i18n/locales/iso14651_t1_pinyin
+/snap/ubuntu-desktop-installer/1276/usr/share/mime/packages/freedesktop.org.xml
+/snap/ubuntu-desktop-installer/1286/bin/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/snap/ubuntu-desktop-installer/1286/bin/data/flutter_assets/packages/timezone_map/assets/cities15000.txt
+/snap/ubuntu-desktop-installer/1286/bin/data/flutter_assets/packages/ubuntu_bootstrap/assets/slides/screenshots/dark/blender.png
+/snap/ubuntu-desktop-installer/1286/bin/data/flutter_assets/packages/ubuntu_bootstrap/assets/slides/screenshots/light/blender.png
+/snap/ubuntu-desktop-installer/1286/bin/lib/libapp.so
+/snap/ubuntu-desktop-installer/1286/bin/lib/libflutter_linux_gtk.so
+/snap/ubuntu-desktop-installer/1286/usr/bin/python3.10
+/snap/ubuntu-desktop-installer/1286/usr/lib/python3/dist-packages/launchpadlib/testing/launchpad-wadl.xml
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/crocus_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/d3d12_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/i915_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/iris_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/kms_swrast_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/nouveau_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/r300_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/r600_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/radeonsi_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/swrast_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/virtio_gpu_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/vmwgfx_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/dri/zink_dri.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libLLVM-15.so.1
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libc.a
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libcairo.so.2.11600.0
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2404.29
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libgio-2.0.a
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.7200.4
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libglib-2.0.a
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.7200.4
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2404.29
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libicudata.so.70.1
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libicui18n.so.70.1
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libicuuc.so.70.1
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libm-2.35.a
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libmvec.a
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libperl.so.5.34.0
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libsepol.a
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/libxml2.so.2.9.13
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/perl/5.34.0/CORE/charclass_invlists.h
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Encode/CN/CN.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Encode/JP/JP.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Encode/KR/KR.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Encode/TW/TW.so
+/snap/ubuntu-desktop-installer/1286/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Unicode/Collate/Collate.so
+/snap/ubuntu-desktop-installer/1286/usr/libexec/data/flutter_assets/assets/Ubuntu_WSL_bgrd_x2.png
+/snap/ubuntu-desktop-installer/1286/usr/libexec/data/flutter_assets/assets/splash_animation.gif
+/snap/ubuntu-desktop-installer/1286/usr/libexec/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/snap/ubuntu-desktop-installer/1286/usr/libexec/lib/libapp.so
+/snap/ubuntu-desktop-installer/1286/usr/libexec/lib/libflutter_linux_gtk.so
+/snap/ubuntu-desktop-installer/1286/usr/share/grub/unicode.pf2
+/snap/ubuntu-desktop-installer/1286/usr/share/i18n/locales/cns11643_stroke
+/snap/ubuntu-desktop-installer/1286/usr/share/i18n/locales/iso14651_t1_common
+/snap/ubuntu-desktop-installer/1286/usr/share/i18n/locales/iso14651_t1_pinyin
+/snap/ubuntu-desktop-installer/1286/usr/share/mime/packages/freedesktop.org.xml
+/snap/snapd/20290/bin/fc-cache-v6
+/snap/snapd/20290/bin/fc-cache-v7
+/snap/snapd/20290/lib/x86_64-linux-gnu/libc-2.23.so
+/snap/snapd/20290/lib/x86_64-linux-gnu/libm-2.23.so
+/snap/snapd/20290/usr/bin/snap
+/snap/snapd/20290/usr/lib/locale/C.UTF-8/LC_COLLATE
+/snap/snapd/20290/usr/lib/snapd/apparmor_parser
+/snap/snapd/20290/usr/lib/snapd/snap-bootstrap
+/snap/snapd/20290/usr/lib/snapd/snap-exec
+/snap/snapd/20290/usr/lib/snapd/snap-failure
+/snap/snapd/20290/usr/lib/snapd/snap-fde-keymgr
+/snap/snapd/20290/usr/lib/snapd/snap-preseed
+/snap/snapd/20290/usr/lib/snapd/snap-recovery-chooser
+/snap/snapd/20290/usr/lib/snapd/snap-repair
+/snap/snapd/20290/usr/lib/snapd/snap-seccomp
+/snap/snapd/20290/usr/lib/snapd/snap-update-ns
+/snap/snapd/20290/usr/lib/snapd/snapctl
+/snap/snapd/20290/usr/lib/snapd/snapd
+/snap/snapd/20290/usr/lib/snapd/snapd-aa-prompt-listener
+/snap/snapd/20290/usr/lib/snapd/snapd-aa-prompt-ui
+/snap/snapd/20290/usr/lib/snapd/snapd-apparmor
+/snap/snapd/21759/lib/x86_64-linux-gnu/libc-2.23.so
+/snap/snapd/21759/lib/x86_64-linux-gnu/libm-2.23.so
+/snap/snapd/21759/usr/bin/snap
+/snap/snapd/21759/usr/lib/locale/C.UTF-8/LC_COLLATE
+/snap/snapd/21759/usr/lib/snapd/apparmor_parser
+/snap/snapd/21759/usr/lib/snapd/snap-bootstrap
+/snap/snapd/21759/usr/lib/snapd/snap-exec
+/snap/snapd/21759/usr/lib/snapd/snap-failure
+/snap/snapd/21759/usr/lib/snapd/snap-fde-keymgr
+/snap/snapd/21759/usr/lib/snapd/snap-preseed
+/snap/snapd/21759/usr/lib/snapd/snap-recovery-chooser
+/snap/snapd/21759/usr/lib/snapd/snap-repair
+/snap/snapd/21759/usr/lib/snapd/snap-seccomp
+/snap/snapd/21759/usr/lib/snapd/snap-update-ns
+/snap/snapd/21759/usr/lib/snapd/snapctl
+/snap/snapd/21759/usr/lib/snapd/snapd
+/snap/snapd/21759/usr/lib/snapd/snapd-apparmor
+/snap/gtk-common-themes/1535/share/icons/Adwaita/cursors/left_ptr_watch
+/snap/gtk-common-themes/1535/share/icons/Adwaita/cursors/watch
+/snap/gtk-common-themes/1535/share/icons/Yaru/cursors/00000000000000020006000e7e9ffc3f
+/snap/gtk-common-themes/1535/share/icons/Yaru/cursors/08e8e1c95fe2fc01f976f1e063a24ccd
+/snap/gtk-common-themes/1535/share/icons/Yaru/cursors/3ecb610c1bf2410f44200f48c40d3599
+/snap/gtk-common-themes/1535/share/icons/Yaru/cursors/half-busy
+/snap/gtk-common-themes/1535/share/icons/Yaru/cursors/left_ptr_watch
+/snap/gtk-common-themes/1535/share/icons/Yaru/cursors/progress
+/snap/gtk-common-themes/1535/share/icons/Yaru/cursors/wait
+/snap/gtk-common-themes/1535/share/icons/Yaru/cursors/wait.ani
+/snap/gtk-common-themes/1535/share/icons/Yaru/cursors/watch
+/snap/gtk-common-themes/1535/share/icons/Yaru/cursors/watch.ani
+/snap/gtk-common-themes/1535/share/icons/elementary/devices/128/scanner.svg
+/snap/core22/864/usr/bin/bash
+/snap/core22/864/usr/bin/perl
+/snap/core22/864/usr/bin/perl5.34.0
+/snap/core22/864/usr/bin/python3.10
+/snap/core22/864/usr/bin/systemctl
+/snap/core22/864/usr/bin/systemd-analyze
+/snap/core22/864/usr/bin/udevadm
+/snap/core22/864/usr/bin/vim.tiny
+/snap/core22/864/usr/lib/i386-linux-gnu/libc.so.6
+/snap/core22/864/usr/lib/i386-linux-gnu/libm.so.6
+/snap/core22/864/usr/lib/systemd/libsystemd-shared-249.so
+/snap/core22/864/usr/lib/systemd/systemd
+/snap/core22/864/usr/lib/systemd/systemd-networkd
+/snap/core22/864/usr/lib/udev/hwdb.bin
+/snap/core22/864/usr/lib/udev/hwdb.d/20-OUI.hwdb
+/snap/core22/864/usr/lib/udev/hwdb.d/20-pci-vendor-model.hwdb
+/snap/core22/864/usr/lib/udev/hwdb.d/20-usb-vendor-model.hwdb
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libc.so.6
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libcrypto.so.3
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libdb-5.3.so
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libdns-export.so.1110.0.2
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libgcrypt.so.20.3.4
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.7200.4
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.7200.4
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libgnutls.so.30.31.0
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libopensc.so.8.0.0
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libp11-kit.so.0.3.0
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+/snap/core22/864/usr/lib/x86_64-linux-gnu/libunistring.so.2.2.0
+/snap/core22/864/usr/sbin/apparmor_parser
+/snap/core22/864/usr/sbin/ldconfig.real
+/snap/core22/864/usr/sbin/wpa_supplicant
+/snap/core22/1612/usr/bin/bash
+/snap/core22/1612/usr/bin/perl
+/snap/core22/1612/usr/bin/perl5.34.0
+/snap/core22/1612/usr/bin/python3.10
+/snap/core22/1612/usr/bin/systemctl
+/snap/core22/1612/usr/bin/systemd-analyze
+/snap/core22/1612/usr/bin/udevadm
+/snap/core22/1612/usr/bin/vim.tiny
+/snap/core22/1612/usr/lib/i386-linux-gnu/libc.so.6
+/snap/core22/1612/usr/lib/i386-linux-gnu/libm.so.6
+/snap/core22/1612/usr/lib/systemd/libsystemd-shared-249.so
+/snap/core22/1612/usr/lib/systemd/systemd
+/snap/core22/1612/usr/lib/systemd/systemd-networkd
+/snap/core22/1612/usr/lib/udev/hwdb.bin
+/snap/core22/1612/usr/lib/udev/hwdb.d/20-OUI.hwdb
+/snap/core22/1612/usr/lib/udev/hwdb.d/20-pci-vendor-model.hwdb
+/snap/core22/1612/usr/lib/udev/hwdb.d/20-usb-vendor-model.hwdb
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libc.so.6
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libcrypto.so.3
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libdb-5.3.so
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libdns-export.so.1110.0.2
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libgcrypt.so.20.3.4
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.7200.4
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.7200.4
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libgnutls.so.30.31.0
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libopensc.so.8.0.0
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libp11-kit.so.0.3.0
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+/snap/core22/1612/usr/lib/x86_64-linux-gnu/libunistring.so.2.2.0
+/snap/core22/1612/usr/sbin/apparmor_parser
+/snap/core22/1612/usr/sbin/ldconfig.real
+/snap/core22/1612/usr/sbin/wpa_supplicant
+/init
+/proc/kcore
+/usr/sbin/ldconfig.real
+/usr/sbin/apparmor_parser
+/usr/lib/python3/dist-packages/launchpadlib/testing/launchpad-wadl.xml
+/usr/lib/file/magic.mgc
+/usr/lib/git-core/git-http-push
+/usr/lib/git-core/git
+/usr/lib/udev/hwdb.d/20-usb-vendor-model.hwdb
+/usr/lib/udev/hwdb.d/20-pci-vendor-model.hwdb
+/usr/lib/udev/hwdb.d/20-OUI.hwdb
+/usr/lib/udev/hwdb.bin
+/usr/lib/wsl/lib/libd3d12core.so
+/usr/lib/wsl/drivers/adp80xx.inf_amd64_efb36fdc260e8bc8/adp80xx.sys
+/usr/lib/wsl/drivers/athw8x.inf_amd64_55014eff4ceefbdf/athw8x.sys
+/usr/lib/wsl/drivers/bth.inf_amd64_0bfe8970ec426433/bthport.sys
+/usr/lib/wsl/drivers/cht4vx64.inf_amd64_b03448ba0b72ec47/cht4vx64.sys
+/usr/lib/wsl/drivers/cui_dch.inf_amd64_1cc7b402747a872f/igdlh.cat
+/usr/lib/wsl/drivers/cui_dch.inf_amd64_1cc7b402747a872f/igfxLHM.dll
+/usr/lib/wsl/drivers/cui_dch.inf_amd64_1f5697b432444956/igdlh.cat
+/usr/lib/wsl/drivers/cui_dch.inf_amd64_1f5697b432444956/igfxDHN.dll
+/usr/lib/wsl/drivers/cui_dch.inf_amd64_1f5697b432444956/igfxLHM.dll
+/usr/lib/wsl/drivers/cui_dch.inf_amd64_1f5697b432444956/igfxSDK.exe
+/usr/lib/wsl/drivers/cui_dch.inf_amd64_23cd4a524b85fcc6/igdlh.cat
+/usr/lib/wsl/drivers/cui_dch.inf_amd64_23cd4a524b85fcc6/igfxLHM.dll
+/usr/lib/wsl/drivers/cui_dch.inf_amd64_2bee269ff6068a49/igdlh.cat
+/usr/lib/wsl/drivers/cui_dch.inf_amd64_2bee269ff6068a49/igfxLHM.dll
+/usr/lib/wsl/drivers/cui_dch.inf_amd64_b8e01d9e8716d2a7/igdlh.cat
+/usr/lib/wsl/drivers/cui_dch.inf_amd64_b8e01d9e8716d2a7/igfxLHM.dll
+/usr/lib/wsl/drivers/detectionverificationdrv.inf_amd64_012e400af26c996e/IntelSSTPreprocStreamer.dll
+/usr/lib/wsl/drivers/detectionverificationdrv.inf_amd64_012e400af26c996e/MultiChannelWoV.dll
+/usr/lib/wsl/drivers/dptf_cpu.inf_amd64_4a3ae74cfa6c37d6/Dptf.dll
+/usr/lib/wsl/drivers/dptf_cpu.inf_amd64_4a3ae74cfa6c37d6/DptfPolicyAdaptivePerformance.dll
+/usr/lib/wsl/drivers/dptf_cpu.inf_amd64_4a3ae74cfa6c37d6/DptfPolicyPowerBoss.dll
+/usr/lib/wsl/drivers/dptf_cpu.inf_amd64_4a3ae74cfa6c37d6/esif_uf.exe
+/usr/lib/wsl/drivers/dptf_cpu.inf_amd64_c2c5b0e17a28a48f/Dptf.dll
+/usr/lib/wsl/drivers/dptf_cpu.inf_amd64_c2c5b0e17a28a48f/DptfPolicyAdaptivePerformance.dll
+/usr/lib/wsl/drivers/dptf_cpu.inf_amd64_c2c5b0e17a28a48f/DptfPolicyPowerBoss.dll
+/usr/lib/wsl/drivers/dptf_cpu.inf_amd64_c2c5b0e17a28a48f/esif_uf.exe
+/usr/lib/wsl/drivers/dptf_cpu.inf_amd64_c2c5b0e17a28a48f/ipftcs.dll
+/usr/lib/wsl/drivers/hdxsstm.inf_amd64_81c22c7a5856f3dd/DolbyDAX2APOv201.dll
+/usr/lib/wsl/drivers/hdxsstm.inf_amd64_81c22c7a5856f3dd/RltkAPOU64.dll
+/usr/lib/wsl/drivers/hdxsstm.inf_amd64_81c22c7a5856f3dd/RTCOM64.dll
+/usr/lib/wsl/drivers/hdxsstm.inf_amd64_81c22c7a5856f3dd/RTKVHD64.sys
+/usr/lib/wsl/drivers/hdxsstm2.inf_amd64_f74568513a3bb299/DolbyDAX2APOv201.dll
+/usr/lib/wsl/drivers/hdxsstm2.inf_amd64_f74568513a3bb299/RltkAPOU642.dll
+/usr/lib/wsl/drivers/hdxsstm2.inf_amd64_f74568513a3bb299/RtCOM64.dll
+/usr/lib/wsl/drivers/hdxsstm2.inf_amd64_f74568513a3bb299/RTKVHD64.sys
+/usr/lib/wsl/drivers/helloface.inf_amd64_9d2b5b8854f17bb7/amd64/FaceDetectorResources.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_9d2b5b8854f17bb7/amd64/FaceProcessor.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_9d2b5b8854f17bb7/amd64/FaceRecognitionEngineAdapter.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_9d2b5b8854f17bb7/amd64/facerecognitionengineadapterresourcessecure.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_9d2b5b8854f17bb7/amd64/FaceRecognitionEngineAdapterResources_v4.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_9d2b5b8854f17bb7/amd64/facerecognitionsensoradapterresources.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_9d2b5b8854f17bb7/amd64/FaceTrackerInternal.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_e2b892ac80349ec6/amd64/FaceDetectorResources.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_e2b892ac80349ec6/amd64/FaceProcessor.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_e2b892ac80349ec6/amd64/FaceRecognitionEngineAdapter.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_e2b892ac80349ec6/amd64/facerecognitionengineadapterresourcessecure.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_e2b892ac80349ec6/amd64/FaceRecognitionEngineAdapterResources_v4.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_e2b892ac80349ec6/amd64/facerecognitionsensoradapterresources.dll
+/usr/lib/wsl/drivers/helloface.inf_amd64_e2b892ac80349ec6/amd64/FaceTrackerInternal.dll
+/usr/lib/wsl/drivers/hpygid29_v4.inf_amd64_ea9f64b47fdaa6d2/amd64/EasyColorPrefilter29.dll
+/usr/lib/wsl/drivers/hpygid29_v4.inf_amd64_ea9f64b47fdaa6d2/amd64/hpbxpsv429.dll
+/usr/lib/wsl/drivers/hpygid29_v4.inf_amd64_ea9f64b47fdaa6d2/amd64/hpgid29v4PE.exe
+/usr/lib/wsl/drivers/hpygid29_v4.inf_amd64_ea9f64b47fdaa6d2/amd64/hpygiddrv29.dll
+/usr/lib/wsl/drivers/hpygid29_v4.inf_amd64_ea9f64b47fdaa6d2/hpgid29v4help.cab
+/usr/lib/wsl/drivers/iacamera64.inf_amd64_21b6040c17b39b90/burstisp_ipux.dll
+/usr/lib/wsl/drivers/iacamera64.inf_amd64_21b6040c17b39b90/cpd_component_signed.bin
+/usr/lib/wsl/drivers/iacamera64.inf_amd64_21b6040c17b39b90/iacamera64.sys
+/usr/lib/wsl/drivers/iacamera64.inf_amd64_21b6040c17b39b90/IntelDeviceMFT64.dll
+/usr/lib/wsl/drivers/iacamera64.inf_amd64_21b6040c17b39b90/libia_cp64.dll
+/usr/lib/wsl/drivers/iacamera64.inf_amd64_21b6040c17b39b90/pvl64.dll
+/usr/lib/wsl/drivers/iacamera64.inf_amd64_d17c2a3217bc54a2/burstisp_ipux.dll
+/usr/lib/wsl/drivers/iacamera64.inf_amd64_d17c2a3217bc54a2/cpd_component_signed.bin
+/usr/lib/wsl/drivers/iacamera64.inf_amd64_d17c2a3217bc54a2/iacamera64.sys
+/usr/lib/wsl/drivers/iacamera64.inf_amd64_d17c2a3217bc54a2/IntelDeviceMFT64.dll
+/usr/lib/wsl/drivers/iacamera64.inf_amd64_d17c2a3217bc54a2/libia_cp64.dll
+/usr/lib/wsl/drivers/iacamera64.inf_amd64_d17c2a3217bc54a2/pvl64.dll
+/usr/lib/wsl/drivers/ibtusb.inf_amd64_d3009ea92c62c4fc/ibtusb.sys
+/usr/lib/wsl/drivers/ibtusb.inf_amd64_f9cb86e42fc2f06f/ibtusb.sys
+/usr/lib/wsl/drivers/iclsclient.inf_amd64_367008a610747d24/conf/EPIDGroupCertLegacy.cer
+/usr/lib/wsl/drivers/iclsclient.inf_amd64_367008a610747d24/conf/EPIDGroupCertX509.cer
+/usr/lib/wsl/drivers/iclsclient.inf_amd64_367008a610747d24/lib/iclsClientInternal.dll
+/usr/lib/wsl/drivers/iclsclient.inf_amd64_367008a610747d24/lib/iclsProxyInternal.dll
+/usr/lib/wsl/drivers/iclsclient.inf_amd64_367008a610747d24/lib/libcrypto-1_1-x64.dll
+/usr/lib/wsl/drivers/iclsclient.inf_amd64_4e9e8c349f3a1aca/conf/EPIDGroupCertLegacy.cer
+/usr/lib/wsl/drivers/iclsclient.inf_amd64_4e9e8c349f3a1aca/conf/EPIDGroupCertX509.cer
+/usr/lib/wsl/drivers/iclsclient.inf_amd64_4e9e8c349f3a1aca/lib/iclsClientInternal.dll
+/usr/lib/wsl/drivers/iclsclient.inf_amd64_4e9e8c349f3a1aca/lib/iclsProxyInternal.dll
+/usr/lib/wsl/drivers/iclsclient.inf_amd64_4e9e8c349f3a1aca/lib/libcrypto-3-x64.dll
+/usr/lib/wsl/drivers/igcc_dch.inf_amd64_26d2ff9465d409de/igdlh.cat
+/usr/lib/wsl/drivers/igcc_dch.inf_amd64_4f4c61e4cb4a8edd/igdlh.cat
+/usr/lib/wsl/drivers/igcc_dch.inf_amd64_6713805197f0e7a7/igdlh.cat
+/usr/lib/wsl/drivers/igcc_dch.inf_amd64_9aa072702270d26e/igdlh.cat
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/clangFEWrapper.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/clangFEWrapper32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/cp_resources.bin
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/c_32.cpa
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/c_64.cpa
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/DnnlPlugin.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/ig11icd32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/ig11icd64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/ig9icd32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/ig9icd64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/iga32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/iga64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igc32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igc64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igd10um32gen11.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igd10um64gen11.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igd11dxva32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igd11dxva64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igd12dxva32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igd12dxva64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igd12um32icl.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igd12um32kbl.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igd12um64icl.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igd12um64kbl.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igd9dxva32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igd9dxva64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdfcl64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdgmm32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdgmm64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdkmd64.sys
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdkmdn64.sys
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdlh.cat
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdmd32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdmd64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdml64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdrcl32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdrcl64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdumdim32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igdumdim64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/iglhxa64.cpa
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igvk32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/igvk64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/libigc.so
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/libigd12dxva64.so
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/libigd12um64icl.so
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/libigd12um64kbl.so
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/libigdgmm.so.12
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/libLLVM-9.so
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/libmfxhw32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/libmfxhw64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/libopencl-clang.so.9
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfxplugin32_av1e_gacc.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfxplugin32_hw.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfxplugin64_av1e_gacc.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfxplugin64_hw.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfx_mft_av1hve_32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfx_mft_av1hve_64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfx_mft_encrypt_32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfx_mft_encrypt_64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfx_mft_h264ve_32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfx_mft_h264ve_64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfx_mft_h265ve_32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfx_mft_h265ve_64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfx_mft_mjpgvd_32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfx_mft_mjpgvd_64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfx_mft_vp9ve_32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/mfx_mft_vp9ve_64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/opencl-clang32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/opencl-clang64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/vulkan-1-32.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/vulkan-1-64.dll
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/vulkaninfo-32.exe
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/vulkaninfo-64.exe
+/usr/lib/wsl/drivers/iigd_dch.inf_amd64_c7d8ede2ab197971/ze_intel_gpu64.dll
+/usr/lib/wsl/drivers/intcdaud.inf_amd64_13b8ffa089ba1d60/intcdaud.inf
+/usr/lib/wsl/drivers/intcdaud.inf_amd64_376337617dbe6e1f/intcdaud.inf
+/usr/lib/wsl/drivers/intcdaud.inf_amd64_718877413f6508de/IntcDAud.inf
+/usr/lib/wsl/drivers/intcdaud.inf_amd64_a170e240b85cd032/intcdaud.inf
+/usr/lib/wsl/drivers/intcdaud.inf_amd64_b285f004ab96c241/intcdaud.inf
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/AS/IAS/IntelSSTPreprocStreamer.dll
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/IntcOED.sys
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/cohort_echo.bin
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/de-AT/echo_de-AT_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/de-DE/echo_de-DE_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/en-AU/echo_en-AU_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/en-GB/echo_en-GB_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/en-IE/echo_en-IE_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/en-IN/echo_en-IN_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/en-NZ/echo_en-NZ_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/es-ES/echo_es-ES_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/es-MX/echo_es-MX_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/fr-CA/echo_fr-CA_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/fr-FR/echo_fr-FR_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Echo/m/ja-JP/echo_ja-JP_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/HeyClova/m/ko-KR/heyclova_ko-KR_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/HiLG/m/ko-KR/hilg_ko-KR_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/HiXiaoWei/m/zh-CN/hixiaowei_zh-CN_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_6c86ac6b2d75e490/WoVartifacts/Service/MultiChannelWoV.dll
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/AS/IAS/IntelSSTPreprocStreamer.dll
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/IntcOED.sys
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/cohort_echo.bin
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/de-AT/echo_de-AT_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/de-AT/echo_de-AT_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/de-AT/echo_de-AT_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/de-DE/echo_de-DE_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/de-DE/echo_de-DE_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/de-DE/echo_de-DE_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-AU/echo_en-AU_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-AU/echo_en-AU_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-AU/echo_en-AU_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-GB/echo_en-GB_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-GB/echo_en-GB_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-GB/echo_en-GB_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-IE/echo_en-IE_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-IE/echo_en-IE_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-IE/echo_en-IE_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-IN/echo_en-IN_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-IN/echo_en-IN_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-IN/echo_en-IN_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-NZ/echo_en-NZ_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-NZ/echo_en-NZ_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/en-NZ/echo_en-NZ_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/es-ES/echo_es-ES_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/es-ES/echo_es-ES_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/es-ES/echo_es-ES_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/es-MX/echo_es-MX_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/es-MX/echo_es-MX_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/es-MX/echo_es-MX_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/fr-CA/echo_fr-CA_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/fr-CA/echo_fr-CA_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/fr-CA/echo_fr-CA_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/fr-FR/echo_fr-FR_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/fr-FR/echo_fr-FR_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/fr-FR/echo_fr-FR_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/it-IT/echo_it-IT_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/it-IT/echo_it-IT_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/it-IT/echo_it-IT_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/ja-JP/echo_ja-JP_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/ja-JP/echo_ja-JP_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Echo/m/ja-JP/echo_ja-JP_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Fuj/m/ja-JP/fuj_ja-JP_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Fuj/m/ja-JP/fuj_ja-JP_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Fuj/m/ja-JP/fuj_ja-JP_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HeyClova/m/ko-KR/heyclova_ko-KR_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HeyClova/m/ko-KR/heyclova_ko-KR_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HeyClova/m/ko-KR/heyclova_ko-KR_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HiLG/m/ko-KR/hilg_ko-KR_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HiLG/m/ko-KR/hilg_ko-KR_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HiLG/m/ko-KR/hilg_ko-KR_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/de-DE/cortana_de-DE_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/de-DE/cortana_de-DE_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/de-DE/cortana_de-DE_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-AU/cortana_en-AU_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-AU/cortana_en-AU_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-AU/cortana_en-AU_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-CA/cortana_en-CA_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-CA/cortana_en-CA_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-CA/cortana_en-CA_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-GB/cortana_en-GB_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-GB/cortana_en-GB_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-GB/cortana_en-GB_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-IN/cortana_en-IN_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-IN/cortana_en-IN_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-IN/cortana_en-IN_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-US/cortana_en-US_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-US/cortana_en-US_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/HwKws/m/en-US/cortana_en-US_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Leno2/m/zh-CN/leno2_zh-CN_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Leno2/m/zh-CN/leno2_zh-CN_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Leno2/m/zh-CN/leno2_zh-CN_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Service/MultiChannelWoV.dll
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Tencent/m/zh-CN/tencent_zh-CN_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Tencent/m/zh-CN/tencent_zh-CN_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Tencent/m/zh-CN/tencent_zh-CN_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Yoga/m/zh-CN/yoga_zh-CN_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Yoga/m/zh-CN/yoga_zh-CN_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_943ac983dea9b81b/WoV/Yoga/m/zh-CN/yoga_zh-CN_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/AS/IAS/IntelSSTPreprocStreamer.dll
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/IntcOED.sys
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/cohort_echo.bin
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/de-AT/echo_de-AT_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/de-AT/echo_de-AT_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/de-AT/echo_de-AT_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/de-DE/echo_de-DE_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/de-DE/echo_de-DE_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/de-DE/echo_de-DE_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-AU/echo_en-AU_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-AU/echo_en-AU_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-AU/echo_en-AU_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-GB/echo_en-GB_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-GB/echo_en-GB_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-GB/echo_en-GB_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-IE/echo_en-IE_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-IE/echo_en-IE_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-IE/echo_en-IE_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-IN/echo_en-IN_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-IN/echo_en-IN_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-IN/echo_en-IN_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-NZ/echo_en-NZ_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-NZ/echo_en-NZ_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/en-NZ/echo_en-NZ_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/es-ES/echo_es-ES_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/es-ES/echo_es-ES_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/es-ES/echo_es-ES_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/es-MX/echo_es-MX_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/es-MX/echo_es-MX_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/es-MX/echo_es-MX_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/fr-CA/echo_fr-CA_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/fr-CA/echo_fr-CA_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/fr-CA/echo_fr-CA_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/fr-FR/echo_fr-FR_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/fr-FR/echo_fr-FR_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/fr-FR/echo_fr-FR_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/it-IT/echo_it-IT_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/it-IT/echo_it-IT_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/it-IT/echo_it-IT_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/ja-JP/echo_ja-JP_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/ja-JP/echo_ja-JP_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Echo/m/ja-JP/echo_ja-JP_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Fuj/m/ja-JP/fuj_ja-JP_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Fuj/m/ja-JP/fuj_ja-JP_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Fuj/m/ja-JP/fuj_ja-JP_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HeyClova/m/ko-KR/heyclova_ko-KR_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HeyClova/m/ko-KR/heyclova_ko-KR_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HeyClova/m/ko-KR/heyclova_ko-KR_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HiLG/m/ko-KR/hilg_ko-KR_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HiLG/m/ko-KR/hilg_ko-KR_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HiLG/m/ko-KR/hilg_ko-KR_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/de-DE/cortana_de-DE_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/de-DE/cortana_de-DE_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/de-DE/cortana_de-DE_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-AU/cortana_en-AU_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-AU/cortana_en-AU_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-AU/cortana_en-AU_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-CA/cortana_en-CA_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-CA/cortana_en-CA_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-CA/cortana_en-CA_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-GB/cortana_en-GB_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-GB/cortana_en-GB_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-GB/cortana_en-GB_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-IN/cortana_en-IN_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-IN/cortana_en-IN_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-IN/cortana_en-IN_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-US/cortana_en-US_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-US/cortana_en-US_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/HwKws/m/en-US/cortana_en-US_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Leno2/m/zh-CN/leno2_zh-CN_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Leno2/m/zh-CN/leno2_zh-CN_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Leno2/m/zh-CN/leno2_zh-CN_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Service/MultiChannelWoV.dll
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Tencent/m/zh-CN/tencent_zh-CN_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Tencent/m/zh-CN/tencent_zh-CN_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Tencent/m/zh-CN/tencent_zh-CN_ex.hsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Yoga/m/zh-CN/yoga_zh-CN_ex.amp
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Yoga/m/zh-CN/yoga_zh-CN_ex.ehsc
+/usr/lib/wsl/drivers/intcoed.inf_amd64_fcb29e3c9f065b61/WoVartifacts/Yoga/m/zh-CN/yoga_zh-CN_ex.hsc
+/usr/lib/wsl/drivers/mdmags64.inf_amd64_767b2d723d0fe83b/agrsm64.sys
+/usr/lib/wsl/drivers/mdmcxhv6.inf_amd64_f1a7a2fbd6554d60/VSTDPV6.SYS
+/usr/lib/wsl/drivers/mdmcxpv6.inf_amd64_46a3b42507e9d29e/VSTDPV6.SYS
+/usr/lib/wsl/drivers/mdmgl004.inf_amd64_189d0189716edeb1/mdmgl004.inf
+/usr/lib/wsl/drivers/mdmmot64.inf_amd64_2afbe7d3ad20f42a/SmSerl64.sys
+/usr/lib/wsl/drivers/mewmiprov.inf_amd64_cad1db73e8c782a6/MEProv.dll
+/usr/lib/wsl/drivers/mlx4_bus.inf_amd64_4c426f3bebc68844/mlx4_bus.sys
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/c_32.cpa
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/c_64.cpa
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/igdlh.cat
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/libmfxhw32.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/libmfxhw64.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/mfxplugin32_hw.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/mfxplugin64_hw.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/mfx_mft_encrypt_32.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/mfx_mft_encrypt_64.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/mfx_mft_h264ve_32.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/mfx_mft_h264ve_64.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/mfx_mft_h265ve_32.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/mfx_mft_h265ve_64.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/mfx_mft_mjpgvd_32.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/mfx_mft_mjpgvd_64.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/mfx_mft_vp9ve_32.dll
+/usr/lib/wsl/drivers/msdk.inf_amd64_61f844b0515f3764/mfx_mft_vp9ve_64.dll
+/usr/lib/wsl/drivers/mwlu97w8x64.inf_amd64_23bc3dc6d91eebdc/mwlu97w8x64.sys
+/usr/lib/wsl/drivers/net8185.inf_amd64_7a30f5a9441cd55b/RTL85n64.sys
+/usr/lib/wsl/drivers/net8192se64.inf_amd64_167684f9283b4eca/rtl8192se.sys
+/usr/lib/wsl/drivers/netathr10x.inf_amd64_2691c4f95b80eb3b/qca61x4_2_2.bin
+/usr/lib/wsl/drivers/netathr10x.inf_amd64_2691c4f95b80eb3b/qca9377_2_0.bin
+/usr/lib/wsl/drivers/netathr10x.inf_amd64_2691c4f95b80eb3b/Qcamain10x64.sys
+/usr/lib/wsl/drivers/netathrx.inf_amd64_220db23f5419ea8d/athwnx.sys
+/usr/lib/wsl/drivers/netbc63a.inf_amd64_7ba6c9cea77dd549/BCMWL63AL.SYS
+/usr/lib/wsl/drivers/netbc64.inf_amd64_b96cdf411c43c00c/BCMWL63a.SYS
+/usr/lib/wsl/drivers/netevbda.inf_amd64_1503f4d5a0d6ba56/evbda.sys
+/usr/lib/wsl/drivers/netmlx5.inf_amd64_101a408e6cb1d8f8/mlx5.sys
+/usr/lib/wsl/drivers/netr28ux.inf_amd64_d5996f2a9d9aa9e3/netr28ux.sys
+/usr/lib/wsl/drivers/netr28x.inf_amd64_5d63c7bcbf29107f/netr28x.sys
+/usr/lib/wsl/drivers/netrtwlane.inf_amd64_20caba88bd7f0bb3/rtwlane.sys
+/usr/lib/wsl/drivers/netrtwlane01.inf_amd64_b02695ef070d7a42/rtwlane01.sys
+/usr/lib/wsl/drivers/netrtwlane_13.inf_amd64_992f4f46e65f30d4/rtwlane_13.sys
+/usr/lib/wsl/drivers/netrtwlans.inf_amd64_97cd1a72c2a7829c/rtwlans.sys
+/usr/lib/wsl/drivers/netrtwlanu.inf_amd64_1815bafd14dc59f0/rtwlanu.sys
+/usr/lib/wsl/drivers/netwbw02.inf_amd64_1c4077fa004e73b4/Netwbw02.sys
+/usr/lib/wsl/drivers/netwbw02.inf_amd64_1c4077fa004e73b4/Netwfw02.dat
+/usr/lib/wsl/drivers/netwew00.inf_amd64_325c0bd6349ed81c/NETwew00.sys
+/usr/lib/wsl/drivers/netwew00.inf_amd64_325c0bd6349ed81c/Netwfw00.dat
+/usr/lib/wsl/drivers/netwew01.inf_amd64_153e01d761813df2/NETwew01.sys
+/usr/lib/wsl/drivers/netwew01.inf_amd64_153e01d761813df2/Netwfw01.dat
+/usr/lib/wsl/drivers/netwlv64.inf_amd64_0b9818131664d91e/netwlv64.sys
+/usr/lib/wsl/drivers/netwns64.inf_amd64_162bb49f925c6463/NETwNs64.sys
+/usr/lib/wsl/drivers/netwsw00.inf_amd64_24d55504ae3587aa/Netwsw00.sys
+/usr/lib/wsl/drivers/netwtw02.inf_amd64_42e02bae858d0fbd/Netwfw02.dat
+/usr/lib/wsl/drivers/netwtw02.inf_amd64_42e02bae858d0fbd/Netwtw02.sys
+/usr/lib/wsl/drivers/netwtw04.inf_amd64_c8f5ae6576289a2d/Netwfw04.dat
+/usr/lib/wsl/drivers/netwtw04.inf_amd64_c8f5ae6576289a2d/Netwtw04.sys
+/usr/lib/wsl/drivers/netwtw06.inf_amd64_2edd50e7a54d503b/Netwfw06.dat
+/usr/lib/wsl/drivers/netwtw06.inf_amd64_2edd50e7a54d503b/Netwtw06.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_00853708c765b1a0/IntelIHVRouter08.dll
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_00853708c765b1a0/Netwfw08.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_00853708c765b1a0/Netwfw10.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_00853708c765b1a0/Netwtw08.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_00853708c765b1a0/Netwtw10.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_2fe3b54e7dee80b8/IntelIHVRouter08.dll
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_2fe3b54e7dee80b8/Netwfw08.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_2fe3b54e7dee80b8/Netwfw10.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_2fe3b54e7dee80b8/Netwtw08.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_2fe3b54e7dee80b8/Netwtw10.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_7c0c516fb22456cd/IntelWifiIhv08.dll
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_7c0c516fb22456cd/Netwfw08.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_7c0c516fb22456cd/Netwtw08.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_a3f046e0a372d422/IntelIHVRouter08.dll
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_a3f046e0a372d422/IntelIHVRouter10.dll
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_a3f046e0a372d422/Netwfw08.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_a3f046e0a372d422/Netwfw10.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_a3f046e0a372d422/Netwtw08.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_a3f046e0a372d422/Netwtw10.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_a49fda12447473f3/IntelIHVRouter08.dll
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_a49fda12447473f3/Netwfw08.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_a49fda12447473f3/Netwtw08.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_d9df0be471398464/IntelIHVRouter08.dll
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_d9df0be471398464/IntelIHVRouter10.dll
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_d9df0be471398464/IntelIHVRouter12.dll
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_d9df0be471398464/Netwfw08.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_d9df0be471398464/Netwfw10.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_d9df0be471398464/netwfw12.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_d9df0be471398464/Netwtw08.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_d9df0be471398464/Netwtw10.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_d9df0be471398464/Netwtw12.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_f5db5cb4b5d32fd4/IntelIHVRouter08.dll
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_f5db5cb4b5d32fd4/Netwfw08.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_f5db5cb4b5d32fd4/Netwfw10.dat
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_f5db5cb4b5d32fd4/Netwtw08.sys
+/usr/lib/wsl/drivers/netwtw08.inf_amd64_f5db5cb4b5d32fd4/Netwtw10.sys
+/usr/lib/wsl/drivers/ntprint.inf_amd64_3c5b87ca6a561f32/Amd64/PS5UI.DLL
+/usr/lib/wsl/drivers/ntprint.inf_amd64_3c5b87ca6a561f32/Amd64/PSCRIPT.NTF
+/usr/lib/wsl/drivers/ntprint.inf_amd64_3c5b87ca6a561f32/Amd64/PSCRPTFE.NTF
+/usr/lib/wsl/drivers/ntprint.inf_amd64_3c5b87ca6a561f32/Amd64/UNIDRVUI.DLL
+/usr/lib/wsl/drivers/ntprint.inf_x86_3c5b87ca6a561f32/I386/PSCRIPT.NTF
+/usr/lib/wsl/drivers/ntprint.inf_x86_3c5b87ca6a561f32/I386/PSCRPTFE.NTF
+/usr/lib/wsl/drivers/ntprint4.inf_amd64_1987ca3a0b344cfd/Amd64/MSxpsPCL6.dll
+/usr/lib/wsl/drivers/ntprint4.inf_amd64_1987ca3a0b344cfd/Amd64/MSxpsPS.dll
+/usr/lib/wsl/drivers/prnms002.inf_amd64_818733748e13e1a4/Amd64/FXSRES.DLL
+/usr/lib/wsl/drivers/prnms003.inf_amd64_c05454c72c8856e0/Amd64/PrintConfig.dll
+/usr/lib/wsl/drivers/prnms003.inf_x86_e20f9b5633131d8a/I386/PrintConfig.dll
+/usr/lib/wsl/drivers/rtsuersdoms.inf_amd64_568a694f1750dfb3/RsCRIcon.dll
+/usr/lib/wsl/drivers/rtwlanu_oldic.inf_amd64_1a82423cc076e882/rtwlanu_oldIC.sys
+/usr/lib/wsl/drivers/surfacefingerprintsensor.inf_amd64_7353bdbea061c066/x64/SurfaceFingerprintEngine.dll
+/usr/lib/wsl/drivers/surfaceme.inf_amd64_a5323220a50efb5a/SurfaceME_13.0.2384.1.bin
+/usr/lib/wsl/drivers/surfaceme.inf_amd64_f3fb0a0c29be695c/SurfaceME_13.0.2376.2.bin
+/usr/lib/wsl/drivers/surfacesam.inf_amd64_04f27ecf57d351ac/SurfaceSAM_14.701.139.bin
+/usr/lib/wsl/drivers/surfacesam.inf_amd64_de1c8ee5d7c655ee/SurfaceSAM_14.800.139.bin
+/usr/lib/wsl/drivers/surfaceservicenulldriver.inf_amd64_7f8f2fd8e50954c4/SurfaceService.exe
+/usr/lib/wsl/drivers/surfaceservicenulldriver.inf_amd64_86cbe4f3673ea99e/SurfaceService.exe
+/usr/lib/wsl/drivers/surfacestoragefwupdate.inf_amd64_846a7349af073ad5/SurfaceStorageFwUpdate.sys
+/usr/lib/wsl/drivers/surfacetouchpenprocessorupdate.inf_amd64_5454a7ce6a89a6e8/TouchPenProcessor099F.dll
+/usr/lib/wsl/drivers/surfaceuefi.inf_amd64_776cdcf51c9282e1/SurfaceUEFI_17.101.140.bin
+/usr/lib/wsl/drivers/surfaceuefi.inf_amd64_8437cf28fcb6dd3e/SurfaceUEFI_19.101.140.bin
+/usr/lib/wsl/drivers/tihifusb.inf_amd64_665ed84772543204/WdfCoInstaller01009.dll
+/usr/lib/wsl/drivers/tinwbusb.inf_amd64_fc232bae276a3248/WdfCoInstaller01009.dll
+/usr/lib/wsl/drivers/unifhid.inf_amd64_3994342584154151/x64/LdaCx2.dll
+/usr/lib/wsl/drivers/unifhid.inf_amd64_3994342584154151/x64/LogiLDA.DLL
+/usr/lib/wsl/drivers/wdmaudio.inf_amd64_4d13929a95486fc6/WMALFXGFXDSP.dll
+/usr/lib/x86_64-linux-gnu/libpython3.10.so.1.0
+/usr/lib/x86_64-linux-gnu/libicudata.so.70.1
+/usr/lib/x86_64-linux-gnu/libgnutls.so.30.31.0
+/usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+/usr/lib/x86_64-linux-gnu/perl/5.34.0/CORE/charclass_invlists.h
+/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Encode/CN/CN.so
+/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Encode/JP/JP.so
+/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Encode/KR/KR.so
+/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Encode/TW/TW.so
+/usr/lib/x86_64-linux-gnu/perl/5.34.0/auto/Unicode/Collate/Collate.so
+/usr/lib/x86_64-linux-gnu/libunistring.so.2.2.0
+/usr/lib/x86_64-linux-gnu/libdb-5.3.so
+/usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+/usr/lib/x86_64-linux-gnu/libicuuc.so.70.1
+/usr/lib/x86_64-linux-gnu/libdns-export.so.1110.0.2
+/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.7200.4
+/usr/lib/x86_64-linux-gnu/libicui18n.so.70.1
+/usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+/usr/lib/x86_64-linux-gnu/libperl.so.5.34.0
+/usr/lib/x86_64-linux-gnu/libdns-9.18.28-0ubuntu0.22.04.1-Ubuntu.so
+/usr/lib/x86_64-linux-gnu/libopcodes-2.38-system.so
+/usr/lib/x86_64-linux-gnu/libgcrypt.so.20.3.4
+/usr/lib/x86_64-linux-gnu/libp11-kit.so.0.3.0
+/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.7200.4
+/usr/lib/x86_64-linux-gnu/libc.so.6
+/usr/lib/x86_64-linux-gnu/libmpfr.so.6.1.0
+/usr/lib/x86_64-linux-gnu/libgstreamer-1.0.so.0.2003.0
+/usr/lib/x86_64-linux-gnu/libbfd-2.38-system.so
+/usr/lib/x86_64-linux-gnu/libcrypto.so.3
+/usr/lib/x86_64-linux-gnu/libxml2.so.2.9.13
+/usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+/usr/lib/x86_64-linux-gnu/libslang.so.2.3.2
+/usr/lib/snapd/snapctl
+/usr/lib/snapd/snap-gdb-shim
+/usr/lib/snapd/snap-bootstrap
+/usr/lib/snapd/snapd
+/usr/lib/snapd/snap-failure
+/usr/lib/snapd/snapd-apparmor
+/usr/lib/snapd/snap-preseed
+/usr/lib/snapd/snap-update-ns
+/usr/lib/snapd/snap-seccomp
+/usr/lib/snapd/snap-fde-keymgr
+/usr/lib/snapd/snap-recovery-chooser
+/usr/lib/snapd/snap-exec
+/usr/lib/snapd/snap-repair
+/usr/lib/snapd/snap-gdbserver-shim
+/usr/lib/systemd/systemd-networkd
+/usr/lib/systemd/systemd
+/usr/lib/systemd/libsystemd-shared-249.so
+/usr/bin/vim.basic
+/usr/bin/perl
+/usr/bin/snap
+/usr/bin/strace
+/usr/bin/tcpdump
+/usr/bin/git
+/usr/bin/udevadm
+/usr/bin/busybox
+/usr/bin/x86_64-linux-gnu-dwp
+/usr/bin/bash
+/usr/bin/vim.tiny
+/usr/bin/python3.10
+/usr/bin/x86_64-linux-gnu-ld.bfd
+/usr/bin/systemctl
+/usr/bin/systemd-analyze
+/usr/bin/x86_64-linux-gnu-ld.gold
+/usr/bin/perl5.34.0
+/usr/bin/gpg
+/usr/share/perl/5.34.0/Unicode/Collate/allkeys.txt
+/usr/share/perl/5.34.0/unicore/Name.pl
+/usr/share/vim/vim82/doc/version8.txt
+/usr/share/mime/packages/freedesktop.org.xml
+/usr/share/i18n/locales/cns11643_stroke
+/usr/share/i18n/locales/iso14651_t1_pinyin
+/usr/share/i18n/locales/iso14651_t1_common
+/usr/share/misc/pci.ids
+/mnt/g/My Drive/How to get started with Drive.pdf
+/mnt/g/My Drive/20230807_210251.mp4
+/mnt/g/My Drive/Gilbert Strang - Introduction to Linear Algebra, Fifth Edition-Wellesley-Cambridge Press (2016).pdf
+/mnt/g/My Drive/College/Second Semester/CS3345/Homework/master theorem problems.pdf
+/mnt/g/My Drive/College/Second Semester/CS3345/Homework/HW1.pdf
+/mnt/g/My Drive/College/Second Semester/CS3345/Homework/HW4.pdf
+/mnt/g/My Drive/College/Second Semester/CS3345/Homework/HW5.pdf
+/mnt/g/My Drive/College/Second Semester/CS3345/Notes/B Trees (2-3-4) v2.ppt
+/mnt/g/My Drive/College/Second Semester/CS3341/Michael Baron - Probability and Statistics for Computer Scientists, Second Edition-Chapman and Hall_CRC (2013).pdf
+/mnt/g/My Drive/College/Second Semester/CS3341/Homework/HW3.pdf
+/mnt/g/My Drive/College/Second Semester/CS3341/Homework/HW4.pdf
+/mnt/g/My Drive/College/Second Semester/CS3341/Homework/HW 1 Solutions.pdf
+/mnt/g/My Drive/College/Second Semester/CS3341/Homework/HW6.pdf
+/mnt/g/My Drive/College/Second Semester/CS3341/Homework/HW7.pdf
+/mnt/g/My Drive/College/Second Semester/CS3341/Homework/exam2.png
+/mnt/g/My Drive/College/Second Semester/CS3341/Homework/HW9.pdf
+/mnt/g/My Drive/College/Second Semester/CS3341/Homework/HW11.pdf
+/mnt/g/My Drive/College/Second Semester/CS3341/Slides/Chapter 2 Probability(6).pptx
+/mnt/g/My Drive/College/Second Semester/CS3341/Slides/Chapter 3 Discrete Random Variables and Their Distributions.pptx
+/mnt/g/My Drive/College/Second Semester/CS3341/Slides/Chapter 4 Continuous Distributions.pptx
+/mnt/g/My Drive/College/Second Semester/CS3341/Slides/Chapter 6 Stochastic processes.pptx
+/mnt/g/My Drive/College/Second Semester/CS3341/Slides/Chapter 9 Inferential Statistics.pptx
+/mnt/g/My Drive/College/Second Semester/CS3341/Formula Sheet.pdf
+/mnt/g/My Drive/College/Second Semester/CS3341/Exam 2 Formulas Full Sheet.pdf
+/mnt/g/My Drive/College/Second Semester/CS3341/Exam 2 formulas pg1.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/David A. Patterson, John L. Hennessy - Computer Organization and Design MIPS Edition_ The Hardware_Software Interface-Morgan Kaufmann (2020).pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Homework/HW03_Elden_Deguia.zip
+/mnt/g/My Drive/College/Second Semester/CS2340/Homework/HW2/HW02_Elden_Deguia.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Homework/HW3/HW03_Elden_Deguia.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Homework/HW7/HW7_Elden_Deguia.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Homework/HW7/HW7_Elden_Deguia.zip
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Course_Notes.zip
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 3 Introduction to Assembly Language Programming(1).pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 4 Performance and Power.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 5 Data Representations, Bin_Oct_Hex(1).pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 6 Number Representations_ signed.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 7 Fixed and Floating point.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 8 Operations and Operands.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 9 Logical Operations, Decisions.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 1+2 Intro to computer organization.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 11 Non-leaf Procedures.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 13 Mult, Divide, Floating Point Arithmetic(2).pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 14 Processor Datapath.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 15 Processor_ Control.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 16 Processor_ Pipelining.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Exam 2 Review/2340 Exam2 Review.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Exam 2 Review/CS2340 Exam 2 examples.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 17 Processor_ Hazards.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 18 Processor_ Exceptions and Interrupts.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 19 Other ISA's and Processors.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 20 Introduction to Memories and Caches(2).pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 21 Associative Caches and Cache performance.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 22 Virtual Memory.501.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/Lecture 23 Advanced Memory and System Software(1).pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/2340 Exam3 Review.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/Lectures/2340 Exam3 Review w_ solutions.pdf
+/mnt/g/My Drive/College/Second Semester/CS2340/MIPS/Mars4_5.jar
+/mnt/g/My Drive/College/Second Semester/CS2340/2340 Exam1 Review.pdf
+/mnt/g/My Drive/College/Second Semester/CS3305/Homework/HW1.pdf
+/mnt/g/My Drive/College/Second Semester/CS3305/Homework/HW2.pdf
+/mnt/g/My Drive/College/Second Semester/CS3305/Homework/HW3.pdf
+/mnt/g/My Drive/College/Second Semester/CS3305/Homework/HW4.pdf
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Lecture1_and_2_Introduction_Set_Theory(1).pptx
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Lecture3_and_Lecture4_Relation.pptx
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Lecture7_and_8_Equivalence_Partial_Order.pptx
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Exam1_Review_Spring_2024.pptx
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Lecture9_and_10_Partial_Order_Closures.pptx
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Lecture11_and12_Graphs_Introduction.pptx
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Lecture16_17_Graph_Euler_Hamilton.pptx
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Lecture15_16_Graph_Representation_Isomorphism.pptx
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Lecture13_Graph_Types.pptx
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/2340 Exam2 Review.pdf
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Lecture19_to_21_Advanced_Counting_Presentation.pptx
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Lecture22_to_24_Trees_presentation.pptx
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Lecture26_Dijkstra's_Algorithm.pptx
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Lecture25_Minimum_Spanning_Tree.ppt
+/mnt/g/My Drive/College/Second Semester/CS3305/Lectures/Exam2_Review_Spring_2024.pptx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 1.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 2.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 3.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 4.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 5.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 6.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 7.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/AHST_Ch_5.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 8.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/~WRL0591.tmp
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 9.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 10.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 11.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 12.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/Chapter 13.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Lectures Notes/STUDY GUIDE 3.docx
+/mnt/g/My Drive/College/Second Semester/AHST1303/Museum Assignment.docx
+/mnt/g/My Drive/College/First Semester/MATH2418/lin alg HW2.pdf
+/mnt/g/My Drive/College/First Semester/MATH2418/lin alg HW3.pdf
+/mnt/g/My Drive/College/First Semester/MATH2418/lin alg HW4.pdf
+/mnt/g/My Drive/College/First Semester/MATH2418/lin alg HW5.pdf
+/mnt/g/My Drive/College/First Semester/MATH2418/lin alg HW6.pdf
+/mnt/g/My Drive/College/First Semester/MATH2418/lin alg HW7.pdf
+/mnt/g/My Drive/College/First Semester/MATH2418/Linear Algebra 6th Solutions.pdf
+/mnt/g/My Drive/College/First Semester/MATH2418/lin alg HW8.pdf
+/mnt/g/My Drive/College/First Semester/MATH2418/lin alg HW9.pdf
+/mnt/g/My Drive/College/First Semester/MATH2418/lin alg HW10.pdf
+/mnt/g/My Drive/College/First Semester/MATH2418/lin alg HW11.pdf
+/mnt/g/My Drive/College/First Semester/MATH2418/lin alg HW12.pdf
+/mnt/g/My Drive/College/First Semester/CS2337/C++ Programming Cengage.pdf
+/mnt/g/My Drive/College/First Semester/CS2305/Real HW/disc math hw3.pdf
+/mnt/g/My Drive/College/First Semester/CS2305/Real HW/disc math hw4.pdf
+/mnt/g/My Drive/College/First Semester/CS2305/Real HW/disc math hw10.pdf
+/mnt/g/My Drive/College/First Semester/CS2305/Notes/10 5 Notes.pdf
+/mnt/g/My Drive/College/First Semester/CS2305/Discrete Math 7th.pdf
+/mnt/g/My Drive/College/First Semester/CS2305/Discrete Math 7th Solutions (Evens).pdf
+/mnt/g/My Drive/College/First Semester/CS1200/Slides/01 - Welcome To CS 1200.pptx
+/mnt/g/My Drive/College/First Semester/CS1200/Asteroids Project/AsteroidsPlus/data/OhYea.wav
+/mnt/g/My Drive/College/First Semester/CS1200/Asteroids Project/AsteroidsPlus/data/OhYea-old1.wav
+/mnt/g/My Drive/College/First Semester/CS1200/Asteroids Project/AsteroidsPlus/data/ThatsAllFolks.wav
+/mnt/g/My Drive/College/First Semester/CS1200/Asteroids Project/AsteroidsPlus/data/ThatsAllFolks-old1.wav
+/mnt/g/My Drive/College/First Semester/CS1200/Asteroids Project/AsteroidsPlus - Copy/data/OhYea.wav
+/mnt/g/My Drive/College/First Semester/CS1200/Asteroids Project/AsteroidsPlus - Copy/data/OhYea-old1.wav
+/mnt/g/My Drive/College/First Semester/CS1200/Asteroids Project/AsteroidsPlus - Copy/data/ThatsAllFolks.wav
+/mnt/g/My Drive/College/First Semester/CS1200/Asteroids Project/AsteroidsPlus - Copy/data/ThatsAllFolks-old1.wav
+/mnt/g/My Drive/College/First Semester/CS1200/Asteroids Project/Milestone/Team 05 Asteroids Game.zip
+/mnt/g/My Drive/College/First Semester/CS1200/Asteroids Project/Final/Team 05 Asteroids Game.zip
+/mnt/g/My Drive/College/First Semester/CS1200/Studying Engineering.pdf
+/mnt/g/My Drive/College/First Semester/ECS1100/Degree Plan.pdf
+/mnt/g/My Drive/College/First Semester/textbooks/C++ Programming Cengage.pdf
+/mnt/g/My Drive/College/First Semester/textbooks/Discrete Math 7th.pdf
+/mnt/g/My Drive/College/First Semester/textbooks/Linear Algebra 5th Solutions.pdf
+/mnt/g/My Drive/College/First Semester/textbooks/Linear Algebra 5th.pdf
+/mnt/g/My Drive/College/First Semester/textbooks/Linear Algebra 6th Solutions.pdf
+/mnt/g/My Drive/College/First Semester/textbooks/Discrete Math 7th Solutions (Evens).pdf
+/mnt/g/My Drive/College/First Semester/textbooks/Studying Engineering.pdf
+/mnt/g/My Drive/College/Third Semester/Textbooks/introduction-to-algorithms-3rd-edition.pdf
+/mnt/g/My Drive/College/Third Semester/Textbooks/Computer Systems - A Programmer s Perspective - 3rd Edition.pdf
+/mnt/g/My Drive/College/Third Semester/Textbooks/Advanced.Programming.in.the.UNIX.Environment.3rd.Edition.0321637739.pdf
+/mnt/g/My Drive/College/Third Semester/Textbooks/A Practical Guide to Linux Commands, Editors and Shell Programming 4th Edition.pdf
+/mnt/g/My Drive/College/Third Semester/Textbooks/Digital Design and Computer Architecture (2nd Ed)(gnv64).pdf
+/mnt/g/My Drive/College/Third Semester/CS3377/Lecture1_Introduction.pptx
+/mnt/g/My Drive/College/Third Semester/CS3377/Lecture2_Unix_Commands.pptx
+/mnt/g/My Drive/College/Third Semester/CS3377/Lecture4_How_to_run_simple_C_and_Bash_program.pptx
+/mnt/g/My Drive/College/Third Semester/CS3377/Lecture6_Regular_Expression_Unix.ppt
+/mnt/g/My Drive/College/Third Semester/CS3377/Lecture7_How_to_program_C.pptx
+/mnt/g/My Drive/College/Third Semester/CS4341/Lectures/02 Verilog - Intro + Demo.pdf
+/mnt/g/My Drive/College/Third Semester/CS4341/Lectures/03 Simple Logic Gates and Equations.pdf
+/mnt/g/My Drive/College/Third Semester/CS4341/Lectures/04 Review_ Number Systems.pdf
+/mnt/g/My Drive/College/Third Semester/CS4341/Lectures/05 Combo Logic I - Intro to Combo Logic (SOP, POS).pdf
+/mnt/g/My Drive/College/Third Semester/CS4341/Lectures/06 Combo Logic II - Boolean Algebra.pdf
+/mnt/g/My Drive/College/Third Semester/ECS2390/Resumes and Cover Letters Revised 22.pptx
+/mnt/g/My Drive/College/Third Semester/CS4349/Notes/S22-Asymptotic-Notation.ppt.pptx
+/mnt/g/My Drive/College/Third Semester/CS4349/HW1.pdf
+/mnt/g/My Drive/MedalTVDeadbyDaylight20240409215658-1712720950.mp4
+/mnt/g/My Drive/MedalTVValorant20240414234802.mp4
+/mnt/g/My Drive/2024-09-04 20-08-48.mkv
+/mnt/g/My Drive/2024-09-04 19-24-28.mkv
+/mnt/c/$RECYCLE.BIN/S-1-5-21-3158072932-3779574292-1356320952-1001/$RU4P56X.pptx
+/mnt/c/msys64/installerResources/com.msys2.root/20230526msys64.txt
+/mnt/c/msys64/mingw64/bin/addr2line.exe
+/mnt/c/msys64/mingw64/bin/ar.exe
+/mnt/c/msys64/mingw64/bin/as.exe
+/mnt/c/msys64/mingw64/bin/c++.exe
+/mnt/c/msys64/mingw64/bin/c++filt.exe
+/mnt/c/msys64/mingw64/bin/cc.exe
+/mnt/c/msys64/mingw64/bin/cpp.exe
+/mnt/c/msys64/mingw64/bin/dbhash.exe
+/mnt/c/msys64/mingw64/bin/dlltool.exe
+/mnt/c/msys64/mingw64/bin/dllwrap.exe
+/mnt/c/msys64/mingw64/bin/elfedit.exe
+/mnt/c/msys64/mingw64/bin/g++.exe
+/mnt/c/msys64/mingw64/bin/gcc.exe
+/mnt/c/msys64/mingw64/bin/gcov-tool.exe
+/mnt/c/msys64/mingw64/bin/gcov.exe
+/mnt/c/msys64/mingw64/bin/gdb-multiarch.exe
+/mnt/c/msys64/mingw64/bin/gdb.exe
+/mnt/c/msys64/mingw64/bin/gdbserver-multiarch.exe
+/mnt/c/msys64/mingw64/bin/gdbserver.exe
+/mnt/c/msys64/mingw64/bin/gfortran.exe
+/mnt/c/msys64/mingw64/bin/gnat.exe
+/mnt/c/msys64/mingw64/bin/gnatbind.exe
+/mnt/c/msys64/mingw64/bin/gnatchop.exe
+/mnt/c/msys64/mingw64/bin/gnatclean.exe
+/mnt/c/msys64/mingw64/bin/gnatdll.exe
+/mnt/c/msys64/mingw64/bin/gnatkr.exe
+/mnt/c/msys64/mingw64/bin/gnatlink.exe
+/mnt/c/msys64/mingw64/bin/gnatls.exe
+/mnt/c/msys64/mingw64/bin/gnatmake.exe
+/mnt/c/msys64/mingw64/bin/gnatname.exe
+/mnt/c/msys64/mingw64/bin/gnatprep.exe
+/mnt/c/msys64/mingw64/bin/gprof.exe
+/mnt/c/msys64/mingw64/bin/ld.bfd.exe
+/mnt/c/msys64/mingw64/bin/ld.exe
+/mnt/c/msys64/mingw64/bin/libcrypto-3-x64.dll
+/mnt/c/msys64/mingw64/bin/libgccjit-0.dll
+/mnt/c/msys64/mingw64/bin/libgettextlib-0-21-1.dll
+/mnt/c/msys64/mingw64/bin/libgfortran-5.dll
+/mnt/c/msys64/mingw64/bin/libgnat-13.dll
+/mnt/c/msys64/mingw64/bin/libiconv-2.dll
+/mnt/c/msys64/mingw64/bin/libisl-23.dll
+/mnt/c/msys64/mingw64/bin/libpython3.11.dll
+/mnt/c/msys64/mingw64/bin/libsqlite3-0.dll
+/mnt/c/msys64/mingw64/bin/libstdc++-6.dll
+/mnt/c/msys64/mingw64/bin/libzstd.dll
+/mnt/c/msys64/mingw64/bin/nm.exe
+/mnt/c/msys64/mingw64/bin/objcopy.exe
+/mnt/c/msys64/mingw64/bin/objdump.exe
+/mnt/c/msys64/mingw64/bin/ranlib.exe
+/mnt/c/msys64/mingw64/bin/readelf.exe
+/mnt/c/msys64/mingw64/bin/size.exe
+/mnt/c/msys64/mingw64/bin/sqldiff.exe
+/mnt/c/msys64/mingw64/bin/sqlite3.exe
+/mnt/c/msys64/mingw64/bin/sqlite3_analyzer.exe
+/mnt/c/msys64/mingw64/bin/strings.exe
+/mnt/c/msys64/mingw64/bin/strip.exe
+/mnt/c/msys64/mingw64/bin/tcl86.dll
+/mnt/c/msys64/mingw64/bin/tk86.dll
+/mnt/c/msys64/mingw64/bin/windmc.exe
+/mnt/c/msys64/mingw64/bin/windres.exe
+/mnt/c/msys64/mingw64/bin/x86_64-w64-mingw32-c++.exe
+/mnt/c/msys64/mingw64/bin/x86_64-w64-mingw32-cc.exe
+/mnt/c/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe
+/mnt/c/msys64/mingw64/bin/x86_64-w64-mingw32-gcc-13.2.0.exe
+/mnt/c/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe
+/mnt/c/msys64/mingw64/bin/x86_64-w64-mingw32-gfortran.exe
+/mnt/c/msys64/mingw64/include/isl/typed_cpp.h
+/mnt/c/msys64/mingw64/include/mshtml.h
+/mnt/c/msys64/mingw64/include/mshtml.idl
+/mnt/c/msys64/mingw64/include/mshtmlc.h
+/mnt/c/msys64/mingw64/include/shobjidl.h
+/mnt/c/msys64/mingw64/include/uiautomationclient.h
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/adalib/libgnat-13.dll.a
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/adalib/libgnat.a
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/adalib/libgnat_pic.a
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/cc1.exe
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/cc1obj.exe
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/cc1objplus.exe
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/cc1plus.exe
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/collect2.exe
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/f951.exe
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/gnat1.exe
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/libgcc.a
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/libgfortran.a
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/libgfortran.dll.a
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe
+/mnt/c/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/lto1.exe
+/mnt/c/msys64/mingw64/lib/libbfd.a
+/mnt/c/msys64/mingw64/lib/libcrypto.a
+/mnt/c/msys64/mingw64/lib/libcrypto.dll.a
+/mnt/c/msys64/mingw64/lib/libctf-nobfd.a
+/mnt/c/msys64/mingw64/lib/libctf.a
+/mnt/c/msys64/mingw64/lib/libfastprox.a
+/mnt/c/msys64/mingw64/lib/libgccjit.dll.a
+/mnt/c/msys64/mingw64/lib/libgettextlib.a
+/mnt/c/msys64/mingw64/lib/libgettextlib.dll.a
+/mnt/c/msys64/mingw64/lib/libgmp.a
+/mnt/c/msys64/mingw64/lib/libiconv.a
+/mnt/c/msys64/mingw64/lib/libisl.a
+/mnt/c/msys64/mingw64/lib/libisl.dll.a
+/mnt/c/msys64/mingw64/lib/libkernel32.a
+/mnt/c/msys64/mingw64/lib/libmincore.a
+/mnt/c/msys64/mingw64/lib/libmingwex.a
+/mnt/c/msys64/mingw64/lib/libmsvcp120_app.a
+/mnt/c/msys64/mingw64/lib/libmsvcp60.a
+/mnt/c/msys64/mingw64/lib/libmsvcr100.a
+/mnt/c/msys64/mingw64/lib/libmsvcr110.a
+/mnt/c/msys64/mingw64/lib/libmsvcr120.a
+/mnt/c/msys64/mingw64/lib/libmsvcr120d.a
+/mnt/c/msys64/mingw64/lib/libmsvcr120_app.a
+/mnt/c/msys64/mingw64/lib/libmsvcr90.a
+/mnt/c/msys64/mingw64/lib/libmsvcr90d.a
+/mnt/c/msys64/mingw64/lib/libmsvcrt-os.a
+/mnt/c/msys64/mingw64/lib/libmsvcrt.a
+/mnt/c/msys64/mingw64/lib/libnetui1.a
+/mnt/c/msys64/mingw64/lib/libnetui2.a
+/mnt/c/msys64/mingw64/lib/libntdll.a
+/mnt/c/msys64/mingw64/lib/libntoskrnl.a
+/mnt/c/msys64/mingw64/lib/libopcodes.a
+/mnt/c/msys64/mingw64/lib/libpython3.11.dll.a
+/mnt/c/msys64/mingw64/lib/libsqlite3.a
+/mnt/c/msys64/mingw64/lib/libstdc++.a
+/mnt/c/msys64/mingw64/lib/libstdc++.dll.a
+/mnt/c/msys64/mingw64/lib/libucrt.a
+/mnt/c/msys64/mingw64/lib/libucrtapp.a
+/mnt/c/msys64/mingw64/lib/libucrtbase.a
+/mnt/c/msys64/mingw64/lib/libuuid.a
+/mnt/c/msys64/mingw64/lib/libwindowsapp.a
+/mnt/c/msys64/mingw64/lib/libzstd.a
+/mnt/c/msys64/mingw64/lib/python3.11/ensurepip/_bundled/pip-23.1.2-py3-none-any.whl
+/mnt/c/msys64/mingw64/lib/python3.11/ensurepip/_bundled/setuptools-65.5.0-py3-none-any.whl
+/mnt/c/msys64/mingw64/lib/python3.11/lib-dynload/unicodedata.cp311-mingw_x86_64.pyd
+/mnt/c/msys64/mingw64/x86_64-w64-mingw32/bin/ar.exe
+/mnt/c/msys64/mingw64/x86_64-w64-mingw32/bin/as.exe
+/mnt/c/msys64/mingw64/x86_64-w64-mingw32/bin/dlltool.exe
+/mnt/c/msys64/mingw64/x86_64-w64-mingw32/bin/ld.bfd.exe
+/mnt/c/msys64/mingw64/x86_64-w64-mingw32/bin/ld.exe
+/mnt/c/msys64/mingw64/x86_64-w64-mingw32/bin/nm.exe
+/mnt/c/msys64/mingw64/x86_64-w64-mingw32/bin/objcopy.exe
+/mnt/c/msys64/mingw64/x86_64-w64-mingw32/bin/objdump.exe
+/mnt/c/msys64/mingw64/x86_64-w64-mingw32/bin/ranlib.exe
+/mnt/c/msys64/mingw64/x86_64-w64-mingw32/bin/readelf.exe
+/mnt/c/msys64/mingw64/x86_64-w64-mingw32/bin/strip.exe
+/mnt/c/msys64/uninstall.exe
+/mnt/c/msys64/usr/bin/addr2line.exe
+/mnt/c/msys64/usr/bin/ar.exe
+/mnt/c/msys64/usr/bin/as.exe
+/mnt/c/msys64/usr/bin/bash.exe
+/mnt/c/msys64/usr/bin/c++filt.exe
+/mnt/c/msys64/usr/bin/dlltool.exe
+/mnt/c/msys64/usr/bin/dumper.exe
+/mnt/c/msys64/usr/bin/gprof.exe
+/mnt/c/msys64/usr/bin/ld.bfd.exe
+/mnt/c/msys64/usr/bin/ld.exe
+/mnt/c/msys64/usr/bin/libtcl8.6.dll
+/mnt/c/msys64/usr/bin/mintty.exe
+/mnt/c/msys64/usr/bin/msys-2.0.dll
+/mnt/c/msys64/usr/bin/msys-crypto-3.dll
+/mnt/c/msys64/usr/bin/msys-db-5.3.dll
+/mnt/c/msys64/usr/bin/msys-db_cxx-5.3.dll
+/mnt/c/msys64/usr/bin/msys-gettextlib-0-22.dll
+/mnt/c/msys64/usr/bin/msys-gfortran-5.dll
+/mnt/c/msys64/usr/bin/msys-gnutls-30.dll
+/mnt/c/msys64/usr/bin/msys-iconv-2.dll
+/mnt/c/msys64/usr/bin/msys-p11-kit-0.dll
+/mnt/c/msys64/usr/bin/msys-perl5_36.dll
+/mnt/c/msys64/usr/bin/msys-sqlite3-0.dll
+/mnt/c/msys64/usr/bin/msys-stdc++-6.dll
+/mnt/c/msys64/usr/bin/msys-unistring-5.dll
+/mnt/c/msys64/usr/bin/msys-xml2-2.dll
+/mnt/c/msys64/usr/bin/msys-zstd-1.dll
+/mnt/c/msys64/usr/bin/nm.exe
+/mnt/c/msys64/usr/bin/objcopy.exe
+/mnt/c/msys64/usr/bin/objdump.exe
+/mnt/c/msys64/usr/bin/pacman-conf.exe
+/mnt/c/msys64/usr/bin/pacman.exe
+/mnt/c/msys64/usr/bin/pactree.exe
+/mnt/c/msys64/usr/bin/ranlib.exe
+/mnt/c/msys64/usr/bin/sh.exe
+/mnt/c/msys64/usr/bin/size.exe
+/mnt/c/msys64/usr/bin/strings.exe
+/mnt/c/msys64/usr/bin/strip.exe
+/mnt/c/msys64/usr/bin/testpkg.exe
+/mnt/c/msys64/usr/bin/windmc.exe
+/mnt/c/msys64/usr/bin/windres.exe
+/mnt/c/msys64/usr/lib/libbfd.a
+/mnt/c/msys64/usr/lib/perl5/core_perl/auto/Encode/CN/CN.dll
+/mnt/c/msys64/usr/lib/perl5/core_perl/auto/Encode/JP/JP.dll
+/mnt/c/msys64/usr/lib/perl5/core_perl/auto/Encode/KR/KR.dll
+/mnt/c/msys64/usr/lib/perl5/core_perl/auto/Encode/TW/TW.dll
+/mnt/c/msys64/usr/lib/perl5/core_perl/CORE/charclass_invlists.h
+/mnt/c/msys64/usr/lib/perl5/core_perl/CORE/libperl.dll.a
+/mnt/c/msys64/usr/lib/perl5/core_perl/CORE/msys-perl5_36.dll
+/mnt/c/msys64/usr/lib/pkcs11/p11-kit-client.dll
+/mnt/c/msys64/usr/share/misc/magic.mgc
+/mnt/c/msys64/usr/share/perl5/core_perl/Unicode/Collate/allkeys.txt
+/mnt/c/msys64/usr/share/perl5/core_perl/unicore/Name.pl
+/mnt/c/msys64/usr/x86_64-pc-msys/bin/ar.exe
+/mnt/c/msys64/usr/x86_64-pc-msys/bin/as.exe
+/mnt/c/msys64/usr/x86_64-pc-msys/bin/dlltool.exe
+/mnt/c/msys64/usr/x86_64-pc-msys/bin/ld.bfd.exe
+/mnt/c/msys64/usr/x86_64-pc-msys/bin/ld.exe
+/mnt/c/msys64/usr/x86_64-pc-msys/bin/nm.exe
+/mnt/c/msys64/usr/x86_64-pc-msys/bin/objcopy.exe
+/mnt/c/msys64/usr/x86_64-pc-msys/bin/objdump.exe
+/mnt/c/msys64/usr/x86_64-pc-msys/bin/ranlib.exe
+/mnt/c/msys64/usr/x86_64-pc-msys/bin/strip.exe
+/mnt/c/msys64/var/cache/pacman/pkg/binutils-2.41-2-x86_64.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/gcc-libs-11.3.0-4-x86_64.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/gettext-0.22-1-x86_64.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/libgnutls-3.8.1-1-x86_64.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/libopenssl-3.1.2-1-x86_64.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-binutils-2.41-1-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-crt-git-11.0.0.r124.ge89de847d-1-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-gcc-13.2.0-2-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-gcc-ada-13.2.0-2-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-gcc-fortran-13.2.0-2-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-gcc-objc-13.2.0-2-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-gdb-13.2-3-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-gdb-multiarch-13.2-3-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-gettext-0.21.1-2-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-headers-git-11.0.0.r124.ge89de847d-1-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-isl-0.26-1-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-libgccjit-13.2.0-2-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-ncurses-6.4.20230708-1-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-openssl-3.1.2-1-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-python-3.11.4-5-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-sqlite3-3.42.0-1-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-tcl-8.6.12-2-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/mingw-w64-x86_64-tk-8.6.12-2-any.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/msys2-runtime-3.4.7-3-x86_64.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/pacman-6.0.2-8-x86_64.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/pacman-contrib-1.9.1-1-x86_64.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/perl-5.36.1-2-x86_64.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/texinfo-7.0.3-3-x86_64.pkg.tar.zst
+/mnt/c/msys64/var/cache/pacman/pkg/util-linux-2.35.2-4-x86_64.pkg.tar.zst
+/mnt/c/msys64/var/lib/pacman/sync/clang32.db
+/mnt/c/msys64/var/lib/pacman/sync/clang64.db
+/mnt/c/msys64/var/lib/pacman/sync/clangarm64.db
+/mnt/c/msys64/var/lib/pacman/sync/mingw32.db
+/mnt/c/msys64/var/lib/pacman/sync/mingw64.db
+/mnt/c/msys64/var/lib/pacman/sync/ucrt64.db
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/ACE.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/Acrobat.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/Acrobat.exe
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AcrobatRes.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AcroBroker.exe
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AcroCEF/AcroCEF.exe
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AcroCEF/chrome_elf.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AcroCEF/icudtl.dat
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AcroCEF/libcef.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AcroCEF/resources.pak
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AcroCEF/SingleClientServicesUpdater.exe
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AcroCEF/vk_swiftshader.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/acrocef_1/AcroCEF.exe
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/acrocef_1/chrome_elf.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/acrocef_1/icudtl.dat
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/acrocef_1/libcef.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/acrocef_1/resources.pak
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/acrocef_1/SingleClientServicesUpdater.exe
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/acrocef_1/vk_swiftshader.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AcroDunamis.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/Adobe Crash Processor.exe
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AdobeCollabSync.exe
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AdobeXMP.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AGM.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/AIDE.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/CoolType.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/CRClient.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/icucnv71.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/icudt71.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/icuuc71.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/Javascripts/JSByteCodeWin.bin
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/logsession.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/LogTransport2.exe
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/NGL/cefWorkflow/adobe_licensing_wf_acro.exe
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/ngl_resources/resources/ui/index.html
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/OSSLLibs/AdobeFips.exe
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/OSSLLibs/fips-adobe.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/pe.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins/AcroForm.api
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins/Annots.api
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins/Checkers.api
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins/DigSig.api
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins/EScript.api
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins/MakeAccessible.api
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins/mip_ClientTelemetry.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins/mip_core.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins/mip_protection_sdk.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins/mip_upe_sdk.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins/Multimedia.api
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins/PPKLite.api
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/plug_ins3d/prcr.x3d
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/RDCNotificationClient/RDCNotificationClient.appx
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/ReaderUC.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/rt3d.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/app1/dc-desktop-app-dropin/1.0.0_1.0.0/desktop-fontpicker-popups-chunk.js
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/app1/dc-desktop-app-dropin/1.0.0_1.0.0/desktop-gentech-chunk.js
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/app1/dc-desktop-app-dropin/1.0.0_1.0.0/Q2_2024_AddAdobeStockImages.webm
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/app1/dc-desktop-app-dropin/1.0.0_1.0.0/Q2_2024_AddShapesAndIcons.webm
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/app1/dc-desktop-app-dropin/1.0.0_1.0.0/Q2_2024_FontRecommendations.webm
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/static/js/plugins/ob-preview/images/themeless/convert_from_pdf_poster2x.png
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/static/js/plugins/ob-preview/images/themeless/convert_to_pdf_poster2x.png
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/static/js/plugins/on-boarding/images/themeless/editvideoimage.png
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/static/js/plugins/on-boarding/videos/whats_new/en-us/EditImage.webm
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/static/js/plugins/on-boarding/videos/whats_new/en-us/GenerateImage.webm
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/static/js/plugins/on-boarding/videos/whats_new/en-us/GenTechOutline.webm
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/static/js/plugins/on-boarding/videos/whats_new/en-us/GenTechQnA.webm
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/static/js/plugins/send-for-sign/images/RequestSignatureVideo.webm
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/static/js/plugins/walk-through/images/req_sign_ctip_gif.gif
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/static/js/plugins/walk-through/images/themes/dark/req_sign_ctip_gif.gif
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/WebResources/Resource0/static/js/rna-main.js
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/x86/ACE.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/x86/Acrobat/Acrobat.exe
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/x86/AGM.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/x86/AIDE.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/Acrobat/x86/CoolType.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/PDFMaker/Common/SendAsLinkX.dll
+/mnt/c/Program Files/Adobe/Acrobat DC/PDFMaker/Common/X64/SendAsLinkX.dll
+/mnt/c/Program Files/astah-UML/astah-uml.jar
+/mnt/c/Program Files/astah-UML/jre/bin/awt.dll
+/mnt/c/Program Files/astah-UML/jre/bin/freetype.dll
+/mnt/c/Program Files/astah-UML/jre/bin/server/jvm.dll
+/mnt/c/Program Files/astah-UML/jre/lib/charsets.jar
+/mnt/c/Program Files/astah-UML/jre/lib/ext/cldrdata.jar
+/mnt/c/Program Files/astah-UML/jre/lib/ext/localedata.jar
+/mnt/c/Program Files/astah-UML/jre/lib/ext/nashorn.jar
+/mnt/c/Program Files/astah-UML/jre/lib/jsse.jar
+/mnt/c/Program Files/astah-UML/jre/lib/resources.jar
+/mnt/c/Program Files/astah-UML/jre/lib/rt.jar
+/mnt/c/Program Files/astah-UML/lib/axis.jar
+/mnt/c/Program Files/astah-UML/lib/batik/xalan-2.7.2.jar
+/mnt/c/Program Files/astah-UML/lib/guava-25.0-jre.jar
+/mnt/c/Program Files/astah-UML/lib/gvml/ooxml-schemas-1.3.jar
+/mnt/c/Program Files/astah-UML/lib/gvml/poi-3.16.jar
+/mnt/c/Program Files/astah-UML/lib/gvml/poi-ooxml-3.16.jar
+/mnt/c/Program Files/astah-UML/lib/gvml/poi-ooxml-schemas-3.16.jar
+/mnt/c/Program Files/astah-UML/lib/gvml/xmlbeans-2.3.0.jar
+/mnt/c/Program Files/astah-UML/lib/gvml/xmlbeans-2.6.0.jar
+/mnt/c/Program Files/astah-UML/lib/itext-1.3.3.jar
+/mnt/c/Program Files/astah-UML/lib/org.apache.xerces.jar
+/mnt/c/Program Files/astah-UML/lib/poi.jar
+/mnt/c/Program Files/astah-UML/lib/rlm/rlm1233.dll
+/mnt/c/Program Files/astah-UML/lib/tools.jar
+/mnt/c/Program Files/astah-UML/lib/xercesImpl.jar
+/mnt/c/Program Files/astah-UML/lib/yfiles-for-java-swing-o-3.3.0.1.jar
+/mnt/c/Program Files/astah-UML/plugins/script-2.1.0.jar
+/mnt/c/Program Files/astah-UML/ReferenceManual-astah-UML_professional.pdf
+/mnt/c/Program Files/astah-UML/ReferenceManual-astah-UML_professional_ja.pdf
+/mnt/c/Program Files/astah-UML/unins000.exe
+/mnt/c/Program Files/AutoHotkey/AutoHotkey.chm
+/mnt/c/Program Files/AutoHotkey/AutoHotkey.exe
+/mnt/c/Program Files/AutoHotkey/AutoHotkeyU64.exe
+/mnt/c/Program Files/AutoHotkey/Compiler/AutoHotkeySC.bin
+/mnt/c/Program Files/AutoHotkey/Compiler/Unicode 64-bit.bin
+/mnt/c/Program Files/BlueStacks_nxt/BstkC.dll
+/mnt/c/Program Files/BlueStacks_nxt/BstkDD.dll
+/mnt/c/Program Files/BlueStacks_nxt/BstkRT.dll
+/mnt/c/Program Files/BlueStacks_nxt/BstkSVC.exe
+/mnt/c/Program Files/BlueStacks_nxt/BstkVMM.dll
+/mnt/c/Program Files/BlueStacks_nxt/BstkVMMR0_nxt.r0
+/mnt/c/Program Files/BlueStacks_nxt/D3DCompiler_43.dll
+/mnt/c/Program Files/BlueStacks_nxt/d3dcompiler_47.dll
+/mnt/c/Program Files/BlueStacks_nxt/discord_game_sdk.dll
+/mnt/c/Program Files/BlueStacks_nxt/HD-Adb.exe
+/mnt/c/Program Files/BlueStacks_nxt/HD-Apn.dll
+/mnt/c/Program Files/BlueStacks_nxt/HD-DiskCompaction.exe
+/mnt/c/Program Files/BlueStacks_nxt/HD-DiskFormatCheck.exe
+/mnt/c/Program Files/BlueStacks_nxt/HD-MultiInstanceManager.exe
+/mnt/c/Program Files/BlueStacks_nxt/HD-Opengl-Native.dll
+/mnt/c/Program Files/BlueStacks_nxt/HD-Player.exe
+/mnt/c/Program Files/BlueStacks_nxt/libcrypto-1_1-x64.dll
+/mnt/c/Program Files/BlueStacks_nxt/libeay32.dll
+/mnt/c/Program Files/BlueStacks_nxt/libGLESv2.dll
+/mnt/c/Program Files/BlueStacks_nxt/libOpenglRender.dll
+/mnt/c/Program Files/BlueStacks_nxt/platforms/qwindows.dll
+/mnt/c/Program Files/BlueStacks_nxt/Qt5Core.dll
+/mnt/c/Program Files/BlueStacks_nxt/Qt5Gui.dll
+/mnt/c/Program Files/BlueStacks_nxt/Qt5Network.dll
+/mnt/c/Program Files/BlueStacks_nxt/Qt5Qml.dll
+/mnt/c/Program Files/BlueStacks_nxt/Qt5Quick.dll
+/mnt/c/Program Files/BlueStacks_nxt/Qt5QuickTemplates2.dll
+/mnt/c/Program Files/BlueStacks_nxt/Qt5WebEngineCore.dll
+/mnt/c/Program Files/BlueStacks_nxt/Qt5Widgets.dll
+/mnt/c/Program Files/BlueStacks_nxt/resources/icudtl.dat
+/mnt/c/Program Files/BlueStacks_nxt/resources/qtwebengine_resources.pak
+/mnt/c/Program Files/Common Files/Adobe/Acrobat/ActiveX/AcroPDFImpl64.dll
+/mnt/c/Program Files/Common Files/Adobe/Acrobat/DC/Linguistics/Providers/Plugins2/AdobeHunspellPlugin/AdobeHunspellPlugin.dll
+/mnt/c/Program Files/Common Files/Adobe/Acrobat/Setup/{AC76BA86-1033-1033-7760-BC15014EA700}/AcroPro.msi
+/mnt/c/Program Files/Common Files/Adobe/Acrobat/Setup/{AC76BA86-1033-1033-7760-BC15014EA700}/AcroRdrDCx64Upd2400120604.msp
+/mnt/c/Program Files/Common Files/Adobe/Acrobat/Setup/{AC76BA86-1033-1033-7760-BC15014EA700}/Core.cab
+/mnt/c/Program Files/Common Files/Adobe/Acrobat/Setup/{AC76BA86-1033-1033-7760-BC15014EA700}/WindowsInstaller-KB893803-v2-x86.exe
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/appvcleaner.exe
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/AppVIntegration.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/AppvIsvSubsystems64.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/AppvIsvSubsystems64_arm64x.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/C2R32.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/C2R64.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/c2rclient.db
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/C2RUI.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/cpprestsdk.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/IntegratedOffice.exe
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/inventory.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/manageability.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/msix.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/OfficeC2RClient.exe
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/OfficeC2RCom.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/OfficeClickToRun.exe
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/officesvcmgr.exe
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/policy.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/RepoMan.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/repoman_16.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/serviceabilitymanager.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/StreamServer.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ClickToRun/ucrtbase.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ink/hwrlatinlm.dat
+/mnt/c/Program Files/Common Files/microsoft shared/ink/hwrusash.dat
+/mnt/c/Program Files/Common Files/microsoft shared/ink/InkObj.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ink/micaut.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ink/mip.exe
+/mnt/c/Program Files/Common Files/microsoft shared/ink/mraut.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ink/mshwLatin.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ink/tabskb.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ink/TipRes.dll
+/mnt/c/Program Files/Common Files/microsoft shared/ink/tipskins.dll
+/mnt/c/Program Files/Common Files/microsoft shared/OFFICE16/Office Setup Controller/pidgenx.dll
+/mnt/c/Program Files/Common Files/microsoft shared/OFFICE16/Office Setup Controller/pkeyconfig-office.xrm-ms
+/mnt/c/Program Files/Common Files/System/ado/msado15.dll
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/account_export_tool.exe
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/chrome_200_percent.pak
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/chrome_elf.dll
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/crashpad_handler.exe
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/d3dcompiler_47.dll
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/drivefsext.dll
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/GoogleDriveFS.exe
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/html/outlook_live_stream_dark.svg
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/html/outlook_live_stream_light.svg
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/icudtl.dat
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/libcef.dll
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/libGLESv2.dll
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/locales/bn.pak
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/locales/gu.pak
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/locales/hi.pak
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/locales/kn.pak
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/locales/ml.pak
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/locales/mr.pak
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/locales/ta.pak
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/locales/te.pak
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/resources.pak
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/switchblade_host.exe
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/uninstall.exe
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/vk_swiftshader.dll
+/mnt/c/Program Files/Google/Drive File Stream/95.0.2.0/x86/drivefsext.dll
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/account_export_tool.exe
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/chrome_200_percent.pak
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/chrome_elf.dll
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/crashpad_handler.exe
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/d3dcompiler_47.dll
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/drivefsext.dll
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/GoogleDriveFS.exe
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/html/outlook_live_stream_dark.svg
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/html/outlook_live_stream_light.svg
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/icudtl.dat
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/libcef.dll
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/libGLESv2.dll
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/locales/bn.pak
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/locales/gu.pak
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/locales/hi.pak
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/locales/kn.pak
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/locales/ml.pak
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/locales/mr.pak
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/locales/ta.pak
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/locales/te.pak
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/resources.pak
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/switchblade_host.exe
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/uninstall.exe
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/vk_swiftshader.dll
+/mnt/c/Program Files/Google/Drive File Stream/96.0.0.0/x86/drivefsext.dll
+/mnt/c/Program Files/HPPrintScanDoctor/DeviceDetector.NET.dll
+/mnt/c/Program Files/HPPrintScanDoctor/HP.Jarvis.DeviceSvcs.dll
+/mnt/c/Program Files/HPPrintScanDoctor/HP.Jarvis.SwaggerSvcs.dll
+/mnt/c/Program Files/HPPrintScanDoctor/hpbuio.dll
+/mnt/c/Program Files/HPPrintScanDoctor/PrintScanDoctor.dll
+/mnt/c/Program Files/HPPrintScanDoctor/System.Reactive.dll
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/bin/icons/icons-v1-1.0-d.db
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/bin/icons/icons-v1-1.0.db
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/bin/icons/icons-v1-1.25-d.db
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/bin/icons/icons-v1-1.25.db
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/bin/icons/icons-v1-1.5-d.db
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/bin/icons/icons-v1-1.5.db
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/bin/icons/icons-v1-2.0-d.db
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/bin/icons/icons-v1-2.0.db
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/bin/icons/icons-v1-2.5-d.db
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/bin/icons/icons-v1-2.5.db
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/bin/idea64.exe
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/bin/repair.exe
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/jbr/bin/awt.dll
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/jbr/bin/chrome_elf.dll
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/jbr/bin/d3dcompiler_47.dll
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/jbr/bin/icudtl.dat
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/jbr/bin/libcef.dll
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/jbr/bin/libGLESv2.dll
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/jbr/bin/server/jvm.dll
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/jbr/bin/swiftshader/libGLESv2.dll
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/jbr/bin/vk_swiftshader.dll
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/jbr/lib/ct.sym
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/jbr/lib/modules
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/jbr/lib/resources.pak
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/3rd-party-rt.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/ant/lib/ant.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/ant/src.zip
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/app.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/dom-impl.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/groovy.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/grpc-netty-shaded.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/intellij-coverage-agent-1.0.673.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/intellij-test-discovery.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/jffi-1.3.9-native.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/jna.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/jnr-ffi-2.2.12.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/jps-model.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/junixsocket-core.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/lz4-java.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/protobuf.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/pty4j.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/rd-framework.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/stats.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/structuralsearch.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/testFramework.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/lib/util.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/adt-ui.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/android-profilers.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/android.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/artwork.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/build-common.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/data-binding.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/deploy_java_proto.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/dexlib2.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/jb-r8.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/sdk-common.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/sdk-tools.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/sdklib.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/sqlite.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/traceprocessor-proto.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/utp-core-proto.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/lib/wizard-template.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/resources/androidAnnotations.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android/resources/device-art-resources/pixel_3/port_back.webp
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/android-gradle-dsl/lib/android-gradle-dsl.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/ant/lib/antIntegration.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/completionMlRanking/lib/completionMlRanking.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/coverage/lib/coverage.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/coverage/lib/jacoco.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/cwm-plugin/lib/cwm-common.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/cwm-plugin/lib/cwm-host.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/cwm-plugin/lib/cwm-lobby-common.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/cwm-plugin/lib/cwm-plugin.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/cwm-plugin/lib/ice4j.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/cwm-plugin/quiche-native/darwin-aarch64/libquiche.dylib
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/cwm-plugin/quiche-native/darwin-x86-64/libquiche.dylib
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/cwm-plugin/quiche-native/linux-aarch64/libquiche.so
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/cwm-plugin/quiche-native/linux-x86-64/libquiche.so
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/cwm-plugin/quiche-native/win32-x86-64/quiche.dll
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/cwm-plugin-projector/lib/projector/projector.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/design-tools/lib/design-tools.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/devkit/lib/devkit.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/eclipse/lib/eclipse.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/editorconfig/lib/editorconfig.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/featuresTrainer/lib/featuresTrainer.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/git4idea/lib/git4idea.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/github/lib/github.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/gradle/lib/gradle-api-7.4.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/gradle/lib/gradle-api-impldep-7.4.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/gradle/lib/gradle-launcher-7.4.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/gradle/lib/gradle-tooling-extension-impl.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/gradle/lib/gradle.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/gradle-java/lib/gradle-java.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/grazie/lib/grazie.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Groovy/lib/Groovy.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/hg4idea/lib/hg4idea.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/indexing-shared/lib/indexing-shared.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/IntelliLang/lib/IntelliLang.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/java/lib/debugger-memory-agent.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/java/lib/ecj/eclipse.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/java/lib/java-impl.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/java/lib/jb-jdi.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/java/lib/jps-builders.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/java/lib/rt/protobuf-java6.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/java-decompiler/lib/java-decompiler.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/javaFX/lib/javaFX.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/bin/linux/LLDBFrontend
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/bin/macos/LLDBFrontend
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/bin/windows/LLDBFrontend.exe
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/kotlinc/lib/jvm-abi-gen.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/kotlinc/lib/kotlin-compiler.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/kotlinc/lib/kotlin-main-kts.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-js.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/kotlinc/lib/kotlinx-coroutines-core-jvm.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/lib/javaslang.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/lib/jps/kotlin-jps-plugin.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/lib/kotlin-plugin.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/lib/kotlinc-lib.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/lib/kotlinc_android-extensions-compiler-plugin.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/lib/kotlinc_kotlin-compiler-common.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/lib/kotlinc_kotlin-compiler-fe10.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/lib/kotlinc_kotlin-compiler-ir.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/Kotlin/lib/kotlinc_kotlinx-serialization-compiler-plugin.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/lombok/lib/lombok.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/markdown/lib/markdown.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/marketplace/lib/boot/marketplace-impl.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/maven/lib/maven.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/maven/lib/maven3/lib/guava-25.1-android.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/maven/lib/maven3/lib/wagon-http-3.4.3-shaded.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/packageSearch/lib/packageSearch.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/PerforceIntegration/lib/PerforceIntegration.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/properties/lib/properties.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/qodana/lib/qodana.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/searchEverywhereMl/lib/searchEverywhereMl.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/settings-repository/lib/settings-repository.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/settingsSync/lib/settingsSync.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/sh/lib/sh.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/space/lib/space.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/stream-debugger/lib/stream-debugger.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/svn4idea/lib/sqlite.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/svn4idea/lib/svn4idea.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/tasks/lib/tasks-core.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/terminal/lib/terminal.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/testng/lib/testng-plugin.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/uiDesigner/lib/uiDesigner.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/vcs-git-featuresTrainer/lib/vcs-git-featuresTrainer.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/webp/lib/libwebp/mac/libwebp_jni64.dylib
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/wsl-fs-helper/bin/server
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/wsl-fs-helper/lib/wsl-fs-helper.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/xpath/lib/xpath.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/xslt-debugger/lib/rt/saxon-6_5_5.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/xslt-debugger/lib/rt/saxon-9he.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/xslt-debugger/lib/rt/xalan-2_7_2.jar
+/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.2.3/plugins/yaml/lib/yaml.jar
+/mnt/c/Program Files/Microsoft Office/AppXManifest.xml
+/mnt/c/Program Files/Microsoft Office/PackageManifests/AppXManifest.90160000-001A-0000-1000-0000000FF1CE.xml
+/mnt/c/Program Files/Microsoft Office/PackageManifests/AppXManifest.common.16.xml
+/mnt/c/Program Files/Microsoft Office/root/Client/mfc140u.dll
+/mnt/c/Program Files/Microsoft Office/root/Client/ucrtbase.dll
+/mnt/c/Program Files/Microsoft Office/root/Document Themes 16/Gallery.thmx
+/mnt/c/Program Files/Microsoft Office/root/Document Themes 16/Integral.thmx
+/mnt/c/Program Files/Microsoft Office/root/Document Themes 16/Ion Boardroom.thmx
+/mnt/c/Program Files/Microsoft Office/root/Document Themes 16/Ion.thmx
+/mnt/c/Program Files/Microsoft Office/root/Document Themes 16/Organic.thmx
+/mnt/c/Program Files/Microsoft Office/root/Document Themes 16/Retrospect.thmx
+/mnt/c/Program Files/Microsoft Office/root/Integration/C2RInt.16.msi
+/mnt/c/Program Files/Microsoft Office/root/Integration/Integrator.exe
+/mnt/c/Program Files/Microsoft Office/root/Integration/SPPRedist.msi
+/mnt/c/Program Files/Microsoft Office/root/Licenses16/pkeyconfig-office.xrm-ms
+/mnt/c/Program Files/Microsoft Office/root/Office15/pidgenx.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/EXCEL.HXS
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/GrooveIntlResource.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/MAPIR.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/MSAIN.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/OcPubRes.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/offsym.ttf
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/offsymb.ttf
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/offsymsb.ttf
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/offsymsl.ttf
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/OUTLLIBR.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/OUTLOOK.HOL
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/PSRCHLEX.DAT
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/PSRCHSRN.DAT
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/UccApiRes.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/1033/XLINTL32.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/ACCICONS.EXE
+/mnt/c/Program Files/Microsoft Office/root/Office16/ACCMonaco/vs/editor/editor.main.js
+/mnt/c/Program Files/Microsoft Office/root/Office16/ACCMonaco/vs/language/typescript/tsWorker.js
+/mnt/c/Program Files/Microsoft Office/root/Office16/ACCWIZ/ACWZDAT12.ACCDU
+/mnt/c/Program Files/Microsoft Office/root/Office16/ACCWIZ/ACWZLIB.ACCDE
+/mnt/c/Program Files/Microsoft Office/root/Office16/ACCWIZ/ACWZMAIN.ACCDE
+/mnt/c/Program Files/Microsoft Office/root/Office16/ACCWIZ/ACWZTOOL.ACCDE
+/mnt/c/Program Files/Microsoft Office/root/Office16/ACCWIZ/ACWZUSR12.ACCDU
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/AngleSharp.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/DocumentFormat.OpenXml.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.Data.OData.NetFX35.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.Exchange.WebServices.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.Fabric.DatahubEmbed.Resources.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.HostIntegration.Connectors.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.Mashup.Client.Desktop.UI.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.Mashup.Client.Excel.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.Mashup.Client.Excel.Themes.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.Mashup.Client.UI.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.Mashup.Document.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.Mashup.ScriptDom.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.Mashup.Web.Client.Authoring.Core.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.MashupEngine.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.MashupEngine.Library45.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.ML.Data.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.mshtml.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.OData.Core.NetFX35.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.OData.Core.NetFX35.V7.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.ProgramSynthesis.Common.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.ProgramSynthesis.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.ProgramSynthesis.Transformation.Formula.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/Microsoft.ProgramSynthesis.Transformation.Text.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Microsoft Power Query for Excel Integrated/bin/pdf2text.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Power Map Excel Add-in/DATATRANSFORMERWRAPPER.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Power Map Excel Add-in/EXCELPLUGINDATAPROVIDER.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Power Map Excel Add-in/MICROSOFT.DATA.RECOMMENDATION.CLIENT.CORE.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/Power Map Excel Add-in/VISUALIZATIONCONTROL.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-in/Microsoft.AnalysisServices.Common.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-in/Microsoft.AnalysisServices.Excel.BackEnd.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-in/Microsoft.AnalysisServices.Excel.Common.FrontEnd.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-in/Microsoft.AnalysisServices.Layout.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-in/Microsoft.AnalysisServices.Modeler.UI.rll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-in/Microsoft.DataWarehouse.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-in/Microsoft.Excel.DataWarehouse.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-in/Microsoft.Excel.ReportingServices.QueryDesigners.Extensions.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-in/Microsoft.Office.Interop.Excel.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-in/Microsoft.ReportingServices.Diagnostics.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-in/Microsoft.ReportViewer.Common.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-inv16/Microsoft.AnalysisServices.Common.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-inv16/Microsoft.AnalysisServices.Excel.BackEnd.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-inv16/Microsoft.AnalysisServices.Excel.Common.FrontEnd.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-inv16/Microsoft.AnalysisServices.Layout.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-inv16/Microsoft.AnalysisServices.Modeler.UI.rll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-inv16/Microsoft.DataWarehouse.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-inv16/Microsoft.Excel.DataWarehouse.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-inv16/Microsoft.Excel.ReportingServices.QueryDesigners.Extensions.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-inv16/Microsoft.Office.Interop.Excel.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-inv16/Microsoft.ReportingServices.Diagnostics.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/PowerPivot Excel Add-inv16/Microsoft.ReportViewer.Common.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/ADDINS/UmOutlookAddin.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/AI/PowerPointCombinedFloatieLreOnline.onnx
+/mnt/c/Program Files/Microsoft Office/root/Office16/AI/PowerPointFloatieTerminalV5.onnx
+/mnt/c/Program Files/Microsoft Office/root/Office16/AI/WordCombinedFloatieLreOfflineExplorationV3.onnx
+/mnt/c/Program Files/Microsoft Office/root/Office16/AI/WordCombinedFloatieLreOnlineV3.onnx
+/mnt/c/Program Files/Microsoft Office/root/Office16/AI/word_fluency_v2.onnx
+/mnt/c/Program Files/Microsoft Office/root/Office16/Appshapi.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/appshvw.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/AUDIOSEARCHMAIN.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/AUDIOSEARCHSAPIFE.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/CHART.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/cpprestsdk.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/csi.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/DBGHELP.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/Document Parts/1033/16/Built-In Building Blocks.dotx
+/mnt/c/Program Files/Microsoft Office/root/Office16/EMSMDB32.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/EXCEL.EXE
+/mnt/c/Program Files/Microsoft Office/root/Office16/excelcnv.exe
+/mnt/c/Program Files/Microsoft Office/root/Office16/GFX.DLL
+/mnt/c/Program Files/Microsoft Office/root/Office16/GKExcel.dll
+/mnt/c/Program Files/Microsoft Office/root/Office16/GKPowerPoint.dll
