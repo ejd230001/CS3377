@@ -56,7 +56,7 @@ extract_dates
 
 # Test format 2, Example: 2nd September, 2024
 # Ordinal suffix optional, year optional, month may be abbreviated
-current_regex="([0-2]?[0-9]|3[0-1])(st|nd|th|rd)? ?$months(,? ?[0-9]{4})?"
+current_regex="([0-2]?[0-9]|3[0-1])(st|nd|th|rd)?( of)? ?$months(,? ?[0-9]{4})?"
 extract_dates
 
 # Test format 3, Example: 09/27/2024
