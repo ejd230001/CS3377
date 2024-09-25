@@ -4,7 +4,7 @@
 months="(January|Jan|February|Feb|March|Mar|April|Apr|May|June|Jun|July|Jul|August|Aug|September|Sep|Sept|October|Oct|November|Nov|December|Dec)"
 
 # Prompt for input and copy input file to ensure original input isn't modified
-read -p "Enter the name of your input file, or press enter to use default input file: " original_input_file
+read -p "Enter the name of your input file, or press enter to use default input file (input.txt): " original_input_file
 original_input_file=${original_input_file:-input.txt}
 cp $original_input_file input_copy.txt
 
@@ -20,8 +20,8 @@ output_file="report.txt"
 # Extract dates using current regex pattern, remove specified dates from input file to ensure certain dates aren't counted twice
 extract_dates() {
 	# Get dates which match current regex, set them to be removed and append to output
-        egrep -wo "$current_regex" "$input_file" > "$dates_to_remove"
-        egrep -wo "$current_regex" "$input_file" >> "$output_file"
+        egrep -wio "$current_regex" "$input_file" > "$dates_to_remove"
+        egrep -wio "$current_regex" "$input_file" >> "$output_file"
 	
 	# Cycle through all found dates for specified regex
         while IFS= read -r date; do
@@ -36,8 +36,8 @@ extract_dates() {
 # Same function but works for regex with numbers (different delimeters to consider for number dates)
 extract_dates_without_words() {
 	# Get dates which match current regex, set them to be removed and append to output
-        egrep -o "$current_regex" "$input_file" > "$dates_to_remove"
-        egrep -o "$current_regex" "$input_file" >> "$output_file"
+        egrep -io "$current_regex" "$input_file" > "$dates_to_remove"
+        egrep -io "$current_regex" "$input_file" >> "$output_file"
 
         # Cycle through all found dates for specified regex
         while IFS= read -r date; do
@@ -50,13 +50,15 @@ extract_dates_without_words() {
 }
 
 # Test format 1, Example: January 1st, 2023
-# Ordinal suffix optional, year optional, month may be abbreviated
-current_regex="$months ([0-2]?[0-9]|3[0-1])(st|nd|th|rd)?(,? ?[0-9]{4})?"
+# Ordinal suffix optional, year optional, year may be abbreviated, month may be abbreviated
+# may include of
+current_regex="$months ([0-2]?[0-9]|3[0-1])(st|nd|th|rd)?((,| of)? ([0-9]{4}|'?[0-9]{2}))?"
 extract_dates
 
 # Test format 2, Example: 2nd September, 2024
-# Ordinal suffix optional, year optional, month may be abbreviated
-current_regex="([0-2]?[0-9]|3[0-1])(st|nd|th|rd)?( of)? ?$months(,? ?[0-9]{4})?"
+# Ordinal suffix optional, year optional, year may be abbreviated, month may be abbreviated,
+# may include of
+current_regex="([0-2]?[0-9]|3[0-1])(st|nd|th|rd)?( of)? $months(,? ([0-9]{4}|'?[0-9]{2}))?"
 extract_dates
 
 # Test format 3, Example: 09/27/2024
@@ -84,3 +86,6 @@ done < "$output_file"
 
 # Output number of extracted dates
 echo "Number of extracted dates: $(wc -l < $output_file)"
+
+# Append number of dates to end of output file
+echo "Number of extracted dates: $(wc -l < $output_file)" >> $output_file
