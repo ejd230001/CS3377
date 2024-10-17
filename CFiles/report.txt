@@ -1,0 +1,4 @@
+User: chicco
+Failed to guess the number 70 in 10 tries.
+User: chicco
+Failed to guess the number 73 in 10 tries.
