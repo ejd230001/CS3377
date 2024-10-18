@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 
-i=0
 
-while [ "$i" -lt 5 ]; do
-    echo "Hello"
-    (( i = i + 1 ))
+
+for ((i = 0; i < 5; i++)) do
+    echo $i
 done
+
